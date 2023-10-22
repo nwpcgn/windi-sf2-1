@@ -56,7 +56,7 @@ export const actions = [
   },
   {
     slug: "bl_cro_punch_m",
-    name: "Down + Punch II",
+    name: "Punch I",
     pre: "bl_left1",
     loops: 0,
     duration: 200,
@@ -73,7 +73,7 @@ export const actions = [
   },
   {
     slug: "bl_cro_punch_l",
-    name: "Down + Punch III",
+    name: "Punch II",
     pre: "bl_left1",
     loops: 0,
     duration: 200,

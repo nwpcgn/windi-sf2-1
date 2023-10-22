@@ -4,12 +4,12 @@
 	export let x = 0
 	export let y = 0
 	export let duration = 1000
-	export let base_pos = { x: 0 }
+	export let pos = { x: 0 }
 </script>
 
 <div
 	on:transitionend={() => {
-		if (x < base_pos.x + 10) dispatch('ended')
+		if (x < pos.x + 10) dispatch('ended')
 		dispatch('started')
 	}}
 	style="--x: {x}px; --y: {y}px; --dura: {duration}ms;">

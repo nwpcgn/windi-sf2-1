@@ -8,7 +8,7 @@
 
 <section
 	out:fade={{ duration: 400, easing: quintIn }}
-	in:fade={{ duration: 400, delay: 200, easing: quintOut }}
+	in:fade={{ duration: 400, delay: 400, easing: quintOut }}
 	class:out
 	class:center
 	class:noscroll>

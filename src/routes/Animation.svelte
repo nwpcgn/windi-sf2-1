@@ -1,4 +1,5 @@
 <script>
+	import Layer from '../lib/Layer.svelte'
 	import BattleBar from './_components/BattleBar.svelte';
 	export let pages = []
 	export let title = 'Sprite-Animation'
@@ -6,7 +7,7 @@
 
 <svelte:head><title>{title}</title></svelte:head>
 
-<section class="layer">
+<Layer>
 	<header class="page border border-blue-500 border-dashed">
 		<div>{title}</div>
 		<p class="space-x-4">
@@ -22,4 +23,4 @@
 			<BattleBar />
 		</div>
 	</article>
-</section>
+</Layer>
