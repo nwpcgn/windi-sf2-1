@@ -1,0 +1,547 @@
+{
+  "751c8fa9-527d-4ef1-95e5-da1165025db9": {
+    "name": "Amanda",
+    "character_uuid": "c40337bd-7b71-46ec-b675-f8626c905f3b",
+    "portrait": "./img/avatar/alieness.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "Amanda steht nackt im Badezimmer, betrachtet sich im Spiegel und frisiert dabei ihr langes blondes Haar. Sie ist bemerkenswert hübsch, denn sie hat das gutgeschnittene Gesicht und den üppigen Busen von der Mutter geerbt. Heute ist sie happy, denn zum ersten Mal in ihrem Leben darf sie ganz allein zu Hause bleiben."
+    },
+    "parent": "root",
+    "next": "e3f45093-2ad0-48fc-b39c-629512e762c2"
+  },
+  "e62b7224-a736-43db-8671-f58e1c479eec": {
+    "name": "Amanda",
+    "character_uuid": "c40337bd-7b71-46ec-b675-f8626c905f3b",
+    "portrait": "./img/avatar/alieness.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "Die strengen Eltern haben zwar noch ernsthaft erwogen, eine entfernte Verwandte als Ersatz für ihre erkrankte Haushälterin ins Haus kommen zu lassen. Aber Amanda hat heftig dagegen protestiert, da sie diese Frau doch überhaupt nicht ausstehen kann. Und außerdem ist Amanda in diesem Monat achtzehn Jahre alt geworden, ein Alter, in dem man nun wirklich keinen Babysitter mehr braucht!"
+    },
+    "parent": "e3f45093-2ad0-48fc-b39c-629512e762c2",
+    "next": "fcfc439c-cac5-43d7-ad99-b0c556b5e053"
+  },
+  "b4a4e01d-6365-4f31-9a7a-85605aab3ccc": {
+    "name": "Amanda",
+    "character_uuid": "c40337bd-7b71-46ec-b675-f8626c905f3b",
+    "portrait": "./img/avatar/alieness.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "Die Männer tragen Anzüge und sehen darin wie Geschäftsleute aus. Sie starren Amanda in ihrem knappen Frottee-Schlafanzug etwas verblüfft an, und fragen, ob sie ihren Vater sprechen können. Amanda schüttelt verneinend den Kopf. Die seltsamen Blicke, mit denen die beiden Männer ihren nur vom Pyjama verhüllten, bereits gut entwickelten Mädchenkörper betrachten, bemerkt sie zwar, sie denkt sich aber überhaupt nichts dabei ... \nWer sind die beiden Männer und was wollen sie ?"
+    },
+    "choices": [
+      {
+        "text": {
+          "en": "",
+          "fr": "",
+          "de": "Schuldeneintreiber"
+        },
+        "next": "5f33eef0-1d62-4e69-aa8f-8b1c98d4c01f",
+        "parent": "b4a4e01d-6365-4f31-9a7a-85605aab3ccc"
+      },
+      {
+        "text": {
+          "en": "",
+          "fr": "",
+          "de": "Geschäftsfreunde"
+        },
+        "next": "f677135b-0940-4956-9676-286a8cdb8873",
+        "parent": "b4a4e01d-6365-4f31-9a7a-85605aab3ccc"
+      },
+      {
+        "text": {
+          "en": "",
+          "fr": "",
+          "de": "Angebliche FBI - Beamte"
+        },
+        "next": "66580878-71b2-40c6-9a38-d1d9e649d762",
+        "parent": "b4a4e01d-6365-4f31-9a7a-85605aab3ccc"
+      }
+    ],
+    "parent": "fcfc439c-cac5-43d7-ad99-b0c556b5e053"
+  },
+  "5f33eef0-1d62-4e69-aa8f-8b1c98d4c01f": {
+    "name": "Officer",
+    "character_uuid": "ad68b35c-203f-4218-8e00-93c20937a204",
+    "portrait": "./img/avatar/officer.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "„Hallo Süße, ich bin Herr Smith und das ist Herr Jones, wir müssen deinen Vater sprechen!\" meint der Weiße als Amanda die Tür öffnet. „Es tut mir sehr leid, aber meine Eltern sind zwei Wochen lang auf Geschäftsreise in Japan. Vielleicht kann ich Ihnen irgendwie helfen?\" erwidert Amanda."
+    },
+    "parent": "b9424e65-933a-4e3f-8c89-3ece292eaff9",
+    "choices": [],
+    "next": "c61ae426-b59b-4dd8-9892-d266af5b5295"
+  },
+  "a548b85e-2133-4618-82bd-fd21281048be": {
+    "name": "Robotess",
+    "character_uuid": "668f5bfe-7398-4a9f-9aa3-42cec1c5b1ba",
+    "portrait": "./img/avatar/robotess.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "„Und was soll ich nun für sie tun?“ fragt sie naiv. Nun nimmt auch der schwarze Mr. Jones seine Brille ab und beugt sich verschwörerisch zu Amanda hin. „Wir haben Hinweise, dass die Kerle noch heute bei Ihnen zuschlagen werden!“ Amanda erschrickt sichtlich. „Keine Angst!“ beruhigt Mr. Smith sie. „Wir werden alles im Griff haben! Wir haben nämlich den Plan ausgeheckt, dass sie die Kerle hier in dieses Wohnzimmer locken, damit wir sie dann hier auf frischer Tat verhaften können!“"
+    },
+    "next": "29adbbdc-ad63-476b-855d-e499b9c536ec",
+    "parent": "94f1e441-cc61-4d21-a5c0-94500278d94f"
+  },
+  "f677135b-0940-4956-9676-286a8cdb8873": {
+    "name": "Alien",
+    "character_uuid": "c40337bd-7b71-46ec-b675-f8626c905f3b",
+    "portrait": "./img/avatar/alien.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "„Hallo Süße, ich bin Herr Smith und das ist Herr Jones, wir müssen deinen Vater sprechen!\" meint der Weiße als Amanda die Tür öffnet. „Es tut mir sehr leid, aber meine Eltern sind zwei Wochen lang auf Geschäftsreise in Japan. Vielleicht kann ich Ihnen irgendwie helfen?\" erwidert Amanda."
+    },
+    "parent": "d67c0698-1d0a-4427-af19-2233c905b6b5",
+    "choices": [],
+    "next": "1df260a0-b291-497e-b977-d92f9a5fc798"
+  },
+  "92d312ce-4c0d-43f8-ae0e-6a29676eaf1c": {
+    "name": "Officer",
+    "character_uuid": "ad68b35c-203f-4218-8e00-93c20937a204",
+    "portrait": "./img/avatar/officer.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "\"Und wenn du uns antwortest, dann sprichst du uns mit \"Herr\" oder \"Meister\" an - Verstanden\". Wieder nickt Amanda nur schwach und meint \"Ja\". \"JA - WAS?\" wird sie zurechtgewiesen. \"Ja, Herr\". \"Na also geht doch, mein Püppchen. Jetzt lass uns erst mal ein bisschen Spass haben.\"\nWas für´n Spaß hat Smith denn im Sinn?"
+    },
+    "choices": [
+      {
+        "text": {
+          "en": "",
+          "fr": "",
+          "de": "Er bumst sie in den Mund"
+        },
+        "next": "f4993dfa-0dc5-4833-bef2-33bc7f8f4f3f",
+        "parent": "92d312ce-4c0d-43f8-ae0e-6a29676eaf1c"
+      }
+    ],
+    "parent": "8e2ca180-8dd8-4a1c-9c5d-3ab14fe0c4bc"
+  },
+  "ea8e4281-4d83-4b93-8e9b-afa3e139813c": {
+    "name": "Officer",
+    "character_uuid": "ad68b35c-203f-4218-8e00-93c20937a204",
+    "portrait": "./img/avatar/officer.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "Schon bald erhöht sie die Geschwindigkeit mit der er ihren Kopf über seinen Schwanz gleiten lässt. Dann spürt sie wie sein Samen in ihren Rachen spritzt. Gleichzeitig presst er ihren Kopf tief in seinen Schoß. Sein Pimmel, tief in ihrer Kehle würgt sie zwar, aber es bleibt ihr gar nichts anderes übrig als das schleimige Zeugs runterzuschlucken. Mit einem >>Plop\nWohin sind sie gefahren?"
+    },
+    "choices": [
+      {
+        "text": {
+          "en": "",
+          "fr": "",
+          "de": "Zur Villa des Boss"
+        },
+        "next": "042ed1be-da1b-434b-a0fb-b6edd636c649",
+        "parent": "ea8e4281-4d83-4b93-8e9b-afa3e139813c"
+      }
+    ],
+    "parent": "1285c316-c8ef-4e8c-bd70-61e4150f0649"
+  },
+  "042ed1be-da1b-434b-a0fb-b6edd636c649": {
+    "name": "Officer",
+    "character_uuid": "ad68b35c-203f-4218-8e00-93c20937a204",
+    "portrait": "./img/avatar/officer.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "\"So, kleine Schlampe, da sind wir schon\" der Wagen blieb vor einer Villa stehen. Die beiden Männer stiegen aus und packten Amanda und gingen zum Tor der Villa. Dort stand ein bewaffneter Wachmann der die beiden angrinste. \"Na, Frischfleisch für den Boss - geile Titten die Kleine\" meinte er anerkennend und grapschte Amanda auch gleich an die Glocken. \"Ihr Vater dachte er wär besonders schlau und ist abgehauen - jetzt haben wir eben seine kleine Tochterhure in Bezahlung genommen\" erklärte Mr. Jones die Situation. \"Der Boss wartet schon auf Euch\" meinte der Wachmann und die beiden verabschiedeten sich und gingen mit Amanda die Treppen hoch."
+    },
+    "parent": "b2fbc2a4-0a0b-4749-a084-41115fe8cfb8",
+    "signals": {
+      "storyEnd": {
+        "Number": "1"
+      },
+      "parent": "042ed1be-da1b-434b-a0fb-b6edd636c649"
+    }
+  },
+  "29adbbdc-ad63-476b-855d-e499b9c536ec": {
+    "name": "Robotess",
+    "character_uuid": "668f5bfe-7398-4a9f-9aa3-42cec1c5b1ba",
+    "portrait": "./img/avatar/robotess.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "„Wir werden dieses Wohnzimmer nämlich mit versteckten Videokameras überwachen!“ erläutert Mr. Jones lässig. „Alles was Sie dabei tun müssen, ist sie solange hier festzuhalten, bis wir hier sind! Es ist dabei sehr, sehr wichtig, dass sie scheinbar auf alles eingehen, was die Typen von Ihnen verlangen, und dass sie sie unbedingt solange festhalten, bis wir da sind! Lassen Sie sich etwas einfallen, vielleicht können Sie sich ja ein wenig sexy anziehen, um die Kerle solange abzulenken!“ fügt er mit leisem Lächeln hinzu ...\nWie geht es weiter ? Macht Amanda mit ? Was zieht sie dabei an ?"
+    },
+    "parent": "a548b85e-2133-4618-82bd-fd21281048be",
+    "choices": [
+      {
+        "text": {
+          "en": "",
+          "fr": "",
+          "de": "Mr. Smith hilft Amanda beim Aussuchen der Kleider"
+        },
+        "next": "dc5bc1ed-6dab-4d3c-86ee-663a71767033",
+        "parent": "29adbbdc-ad63-476b-855d-e499b9c536ec"
+      }
+    ]
+  },
+  "d934925d-2289-4044-a965-475f34b09330": {
+    "name": "Alien",
+    "character_uuid": "c40337bd-7b71-46ec-b675-f8626c905f3b",
+    "portrait": "./img/avatar/alien.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "Bereitwillig führt die ahnungslose Amanda die beiden angeblichen Geschäftsfreunde ihres Vaters in das Büro ihres Vaters und hilft ihnen auch noch bei der Suche nach den von ihnen gewünschten Dokumenten. Amanda kennt sich in dem Büro ihres Vaters ein wenig aus, nachdem sie erst vor kurzem ihrem Vater beim Sortieren seiner Akten geholfen hat.\nWährend Mr. Smith neugierig die Unterlagen studiert, sieht sich der schwarze Mr. Jones weiter im Büro um. In einem Schrank entdeckt er die teure Videoausrüstung von Amandas Vater. „Familienfeier“ steht auf einer halb bespielten Videocassette geschrieben. Mr. Jones legt die Videocassette in die überaus handliche Digitalkamera ein, schaltet sie ein und richtet sie auf die lediglich mit einem knappen Schlafanzug bekleidete Amanda ...\n\n"
+    },
+    "next": "3a1e8c4f-38ee-4c93-af71-c023942391bd",
+    "parent": "dd73e42e-67bd-41ba-8fbb-90404645837f"
+  },
+  "3a1e8c4f-38ee-4c93-af71-c023942391bd": {
+    "name": "Alien",
+    "character_uuid": "c40337bd-7b71-46ec-b675-f8626c905f3b",
+    "portrait": "./img/avatar/alien.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "„Sehen Sie doch mal bitte hierher, Amanda!“ Amanda dreht sich um und sieht zu ihrer Überraschung den schwarzen Mr. Jones mit der auf sie gerichteten Videokamera ihres Vaters vor sich stehen. „Bitte lächeln!“ fordert er sie auf. Amanda lächelt etwas verlegen und stellt sich in Positur, indem sie die rechte Hand in die rechte Hüfte stemmt und ihr linkes Bein verführerisch ein Stück nach vorne schiebt.\nMr. Smith unterbricht sein Aktenstudium und sieht interessiert vom Schreibtisch auf. Als er Amanda in dieser aufreizenden Positur stehen sieht, leckt er sich mit der Zunge genießerisch über die Lippen. „Sie sehen geradezu bezaubernd aus, Amanda!“ sagt er grinsend. „Haben Sie schon einmal daran gedacht, beim Film zu arbeiten? Ich könnte Ihnen dabei behilflich sein, ich habe viele Freunde im Filmgeschäft!“\nAmanda fühlt sich sehr geschmeichelt und errötet vor Freude. „Vielen Dank für ihr Angebot! Aber mein Vater würde das ganz sicher nicht zulassen!“ Der Mann lehnt sich gelassen zurück. „Ihr Vater muss ja nichts davon erfahren! Überraschen Sie ihn damit, wenn Sie ein Star sind!“\nWas sagt Amanda zu dem Angebot ?"
+    },
+    "parent": "d934925d-2289-4044-a965-475f34b09330",
+    "choices": [
+      {
+        "text": {
+          "en": "",
+          "fr": "",
+          "de": "Amanda hat bedenken"
+        },
+        "next": "6852da88-863c-452b-848a-2c28db0a2f0e",
+        "parent": "3a1e8c4f-38ee-4c93-af71-c023942391bd"
+      }
+    ]
+  },
+  "6852da88-863c-452b-848a-2c28db0a2f0e": {
+    "name": "Alien",
+    "character_uuid": "c40337bd-7b71-46ec-b675-f8626c905f3b",
+    "portrait": "./img/avatar/alien.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "„Hmm, ich weiß nicht so recht! Mein Vater ist sehr streng und kann sehr unangenehm sein, müssen Sie wissen!“ Mr. Smith nickt lächelnd mit dem Kopf. Er hat schon mehr als nur eine unangenehme Erfahrung mit Amandas Vater machen müssen. „Na gut, ich will Sie nicht zu ihrem Glück zwingen, Amanda!“ meint er gönnerhaft. „Aber vielleicht können wir doch ein paar Probeaufnahmen von ihnen machen und diese dann meinen Freunden im Filmgeschäft zeigen!“\n\nAmanda hat da nichts dagegen. Sie stellt sich erneut schamhaft-verführerisch in Positur, bis ihr plötzlich einfällt, dass ihr alter und viel zu kleiner Micky-Maus-Pyjama sicherlich nicht die geeignete Kleidung für Casting-Aufnahmen ist. „Entschuldigen Sie mich bitte einen Augenblick! Vielleicht sollte ich mir dafür vielleicht besser etwas anderes anziehen!“ meint sie. „Ich gehe nur rasch in mein Zimmer zum Umziehen!“\n\n„Los, schnell hinterher, und lass bloß die Kamera laufen!“ meint Mr. Smith ölig grinsend zu seinem schwarzen Kumpan, als Amanda in Richtung ihres Zimmers verschwunden ist. Sie eilen ihr hastig über den Flur hinterher, und sie haben Glück, denn die Türe zu Amandas Jungmädchenzimmer steht halb offen ...\nWas sehen die Männer durch die halb offene Türe?"
+    },
+    "parent": "5699b77f-d95d-427d-b131-2edffbb12c57",
+    "choices": [
+      {
+        "text": {
+          "en": "",
+          "fr": "",
+          "de": "Amanda zieht sich aus"
+        },
+        "next": "715f2494-510b-4d30-944c-773e798d680f",
+        "parent": "6852da88-863c-452b-848a-2c28db0a2f0e"
+      }
+    ]
+  },
+  "715f2494-510b-4d30-944c-773e798d680f": {
+    "name": "Alien",
+    "character_uuid": "c40337bd-7b71-46ec-b675-f8626c905f3b",
+    "portrait": "./img/avatar/alien.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "Die junge Amanda steht vor ihrem geöffneten Kleiderschrank und überlegt ganz aufgeregt, was sie für die Probeaufnahmen anziehen könnte. Sie zieht rasch ihren Micky-Maus-Pyjama aus und wirft ihn achtlos auf den Boden. Dann nimmt sie ihren brandneuen, neonroten String-Tanga und den dazugehörigen BH aus dem Schrank und betrachtet die winzigen Stofffetzen in ihrer Hand.\nIhr strenger Vater würde einen Herzinfarkt bekommen, wenn er sie darin sähe, aber den beiden Geschäftsfreunden ihres Vaters würde das ganz sicher gefallen, denkt sie und lächelt bei dieser Vorstellung.\nAmanda bückt sich nach vorne und holt außerdem ihre hochhackigen roten Stöckelschuhe hervor, die sie sich heimlich geleistet hat. Ob sie sich wirklich so fast nackt den doch eigentlich wildfremden Männern präsentieren soll? Irgendwo hat sie doch noch so einen ganz heißen Fetzen von Minikleid herumhängen, den könnte sie sich drüberziehen ...\nBemerkt Amanda ihre heimlichen Zuschauer?"
+    },
+    "choices": [
+      {
+        "text": {
+          "en": "",
+          "fr": "",
+          "de": "Amanda erwischt Mr. Jones"
+        },
+        "next": "147e0754-c924-42ed-b825-59a72df0dd08",
+        "parent": "715f2494-510b-4d30-944c-773e798d680f"
+      }
+    ],
+    "parent": "3749cbe5-e75d-408f-a504-7ac3a1bfac68"
+  },
+  "147e0754-c924-42ed-b825-59a72df0dd08": {
+    "name": "Alien",
+    "character_uuid": "c40337bd-7b71-46ec-b675-f8626c905f3b",
+    "portrait": "./img/avatar/alien.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "Da, das weisse duenne Minikleid. Schnell zieht sie es ueber und dreht sich noch mal vor dem Spiegel.\n\"Du lieber Himmel, wie eine Nutte sehe ich aus...\",\nsagt sie leise zu sich selbst. Der heimlich filmende Mr. Jones muss fast laut loslachen. Aber die Kleine hat recht, denkt er anerkennend: Die rote Unterwaesche zeichnet sich deutlich durch den duennen weissen Stoff ab und laedt geradezu dazu ein, Amanda dieses Kleidchen vom Koerper zu reissen.\nAmanda dreht sich immer noch pruefend im Spiegel. Ploetzlich bemerkt Jones im Sucher, dass Amanda ihn ueber den Spiegel direkt ansieht. Sie stemmt ihre Haende in die Hueften, stellt die Beine etwas breitbeinig hin, und dreht sich zu ihm um.\n\"Sagen Sie mal, was erlauben Sie sich eigentlich? Seit wann stehen Sie denn schon da?\"\nJones grinst verlegen, seine makellosen weissen Zaehne blitzen hervor.\n\"Ach, Miss Amanda, ich bin gerade erst angekommen... Das sieht wirklich... umwerfend aus, Maedchen. Komm, das musst du auch Mr. Smith zeigen!\"\n\"Meinen Sie wirklich? Ist das nicht... ein bisschen zu schlampig?\"\n\"Keineswegs, die Mode geht gerade ohnehin in diese Richtung. Ausserdem solltest du schon darauf auchten, dass wirklich alle deiner Vorzuege zur Geltung kommen, damit du beim Film eine Chance hast, Suesse...\"\nSie gehen zurueck zu Mr. Smith."
+    },
+    "parent": "e2e67cb1-d233-4e9b-bbf6-1d88c73f6e55",
+    "signals": {
+      "parent": "147e0754-c924-42ed-b825-59a72df0dd08"
+    }
+  },
+  "root": {
+    "next": "751c8fa9-527d-4ef1-95e5-da1165025db9"
+  },
+  "e3f45093-2ad0-48fc-b39c-629512e762c2": {
+    "name": "Amanda",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/alieness.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "Als einzige Tochter eines schwerreichen Industriellen und einer ehemaligen Hollywood-Schauspielerin ist Amanda bisher so behütet wie eine Prinzessin in einem goldenen Käfig aufgewachsen. Aber nach langem Zureden ist es ihr doch noch gelungen, ihre Eltern zu überzeugen, dass sie sie während ihrer geplanten Geschäftsreise nach Japan ohne weiteres mal zwei Wochen in dem großen Herrenhaus allein lassen können."
+    },
+    "parent": "751c8fa9-527d-4ef1-95e5-da1165025db9",
+    "next": "e62b7224-a736-43db-8671-f58e1c479eec"
+  },
+  "fcfc439c-cac5-43d7-ad99-b0c556b5e053": {
+    "name": "Amanda",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/alieness.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "Amanda ist mit ihrer Morgentoilette noch nicht ganz fertig, als es plötzlich an der Haustüre klingelt. Sie steht nackt im Badezimmer, schnappt sich ihren auf dem Stuhl bereitliegenden, noch aus ihrer Jugendzeit stammenden Micky-Maus-Pyjama und zieht ihn rasch wieder an, ehe sie die Treppe hinunter zur Haustür läuft und öffnet. Zu ihrer Überraschung stehen zwei Männer mittleren Alters, ein Weißer und ein Schwarzer, vor ihr."
+    },
+    "parent": "e62b7224-a736-43db-8671-f58e1c479eec",
+    "next": "b4a4e01d-6365-4f31-9a7a-85605aab3ccc"
+  },
+  "f7f30580-0dc0-45b6-b791-1df8781e5459": {
+    "name": "Officer",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/officer.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "Nach kurzem Überlegen muss Mr. Smith hämisch grinsen. Er stößt den anderen an und meint „Na, dann nehmen wir halt sein Töchterchen als Bezahlung.\" Jetzt muss auch der Schwarze grinsen. Amanda hingegen hat die Augen aufgerissen und ihr Kinn klappt vor Entsetzen nach unten. Das kann doch nicht der Ernst dieser Männer sein.\nIst es ihr Ernst? "
+    },
+    "parent": "c61ae426-b59b-4dd8-9892-d266af5b5295",
+    "choices": [
+      {
+        "text": {
+          "en": "",
+          "fr": "",
+          "de": "Ja. Sie schleppen sie in ihren Wagen"
+        },
+        "next": "baccf8b8-f18f-4c93-8f2a-8ed4d6a423e5",
+        "parent": "f7f30580-0dc0-45b6-b791-1df8781e5459"
+      }
+    ]
+  },
+  "c61ae426-b59b-4dd8-9892-d266af5b5295": {
+    "name": "Officer",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/officer.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "„Scheiße\", flucht der Schwarze. „Der Kerl ist abgehauen - der wusste wohl, dass wir seine Schulden eintreiben wollen.\" Amanda sieht die beiden Typen ganz verdattert an - ihr Vater und Schulden, das konnte doch nicht sein."
+    },
+    "parent": "5f33eef0-1d62-4e69-aa8f-8b1c98d4c01f",
+    "next": "f7f30580-0dc0-45b6-b791-1df8781e5459"
+  },
+  "baccf8b8-f18f-4c93-8f2a-8ed4d6a423e5": {
+    "name": "Officer",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/officer.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "Jones fackelt nicht lange und packt Amanda von hinten. \"Komm mit mein Kleines, ab jetzt gehörst du uns. Jedenfalls so lange bis dein Vater seine Schulden bezahlt\" Amanda wehrt sich und strampelt mit den Füßen - jedoch nur mit dem Erfolg das ihr Pyjama immer weiter nach oben rutscht."
+    },
+    "parent": "0e42e72f-e5aa-48d3-82df-a1763c870981",
+    "next": "36b76b43-2c23-4d5f-8a2d-bfe8555e1e8c"
+  },
+  "36b76b43-2c23-4d5f-8a2d-bfe8555e1e8c": {
+    "name": "Officer",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/officer.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "Nach kurzer Zeit findet sich Amanda im Wagen der Männer wieder. Der Schwarze hat sie auf den Rücksitzt gestoßen und die Tür zugeknallt. Dann öffnet sich die Tür auf der anderen Seite und Smith steigt ein und setzt sich neben sie. Jones klemmt sich währendessen hinters Steuer und fährt los. versucht Amanda die Tür wieder zu öffnen um abzuhauen - keine Chance die Tür ist fest verriegelt. Der Schwarze dreht sich kurz um und lacht nur \"Da haben sich schon ganz andere Kaliber die Zähne ausgebissen - wenn wir nicht wollen kommst du da nicht raus\"."
+    },
+    "parent": "baccf8b8-f18f-4c93-8f2a-8ed4d6a423e5",
+    "next": "c04f961a-67cf-48fa-ab78-687f2cf1c31a"
+  },
+  "c04f961a-67cf-48fa-ab78-687f2cf1c31a": {
+    "name": "Officer",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/officer.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "\"Jetzt mal Klartext, kleine Schlampe, von jetzt an wirst du alles machen was wir von dir verlangen, egal wiesehr es dir auch widerstrebt. Wenn du unseren Anweisungen nicht befolgen solltest wirst du dein blaues Wunder erleben. IST das KLAR?\" schnauzt der Weiße die total verschüchterte Amanda an. Amanda nickt nur schwach und ein leises \"Ja\" enfährt ihren Lippen."
+    },
+    "parent": "36b76b43-2c23-4d5f-8a2d-bfe8555e1e8c",
+    "next": "8e2ca180-8dd8-4a1c-9c5d-3ab14fe0c4bc"
+  },
+  "8e2ca180-8dd8-4a1c-9c5d-3ab14fe0c4bc": {
+    "name": "Officer",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/officer.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "Smith ist in der Zwischenzeit immer näher an Amanda herangerückt und hat seinen Arm um sie gelegt. Mit ruhiger sanfter Stimme meint er \"Jetzt beruhige dich doch, mein Schätzchen, dir passiert doch nichts...\" \"...Außer dass wir dich zu unserer Sex-Sklavin machen\" fällt ihm Jones ins Wort was die beiden veranlasst schallend zu lachen."
+    },
+    "parent": "c04f961a-67cf-48fa-ab78-687f2cf1c31a",
+    "next": "92d312ce-4c0d-43f8-ae0e-6a29676eaf1c"
+  },
+  "f4993dfa-0dc5-4833-bef2-33bc7f8f4f3f": {
+    "name": "Officer",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/officer.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "\"Es ist zwar nicht weit, aber Du kannst mir ja schon mal den Schwanz hochblasen, mein kleines Püppchen\", meint Mr. Smith dreckig lachend. Amanda fühlt sich miserabel, sie findet es total abstoßend den Schwanz des Mannes in den Mund nehmen zu müssen. Bisher hatte sie nur Freundinnen davon tuscheln gehört. Aber Mr. Smith ließ ihr keine andere Wahl. Er hatte seinen Pimmel schon ausgepackt und packte Amanda an ihren Haaren."
+    },
+    "parent": "14fdf8e1-9241-4783-b3c7-6c5b154f6a16",
+    "next": "d3550451-6f34-400f-9425-823cf90af3f3"
+  },
+  "d3550451-6f34-400f-9425-823cf90af3f3": {
+    "name": "Officer",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/officer.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "\"Na los, Du verdorbene Nutte, nimm meinen Lümmel in Deinen süßen Mund\". Um seinen Worten Nachdruck zu verleihen zog er sie an den Haaren. Amanda öffnete ihren Mund, und versuchte an was anderes zu denken. Langsam aber stülpten sich ihre Lippen über das harte Glied von Mr. Smith."
+    },
+    "next": "1285c316-c8ef-4e8c-bd70-61e4150f0649",
+    "parent": "f4993dfa-0dc5-4833-bef2-33bc7f8f4f3f"
+  },
+  "1285c316-c8ef-4e8c-bd70-61e4150f0649": {
+    "name": "Officer",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/officer.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "\"Du wirst noch viel lernen müssen, meine Kleine\" meint Mr. Smith als er merkt wie unbedarft sich Amanda anstellt \"aber in den nächsten Tagen werden wir dich schon ordentlich einreiten\". Mr. Smith ergreift die Initiative und packt den Kopf von Amanda. Mit seinen Händen schiebt er den Kopf auf seinem Schwanz auf und ab. Amanda hat jetzt keine Kontrolle über ihre Kopfbewegung, sie bläst ihm eigentlich keinen sondern er holt sich mit Hilfe ihres Mundes einen runter."
+    },
+    "next": "ea8e4281-4d83-4b93-8e9b-afa3e139813c",
+    "parent": "d3550451-6f34-400f-9425-823cf90af3f3"
+  },
+  "66580878-71b2-40c6-9a38-d1d9e649d762": {
+    "name": "Robotess",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/robotess.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "„Es tut mir sehr leid, aber meine Eltern sind zwei Wochen lang auf Geschäftsreise in Japan. Vielleicht kann ich Ihnen irgendwie helfen?“ Die beiden Männer sehen sich kurz an. „Das können Sie tatsächlich“, antwortet der weiße Mann dann langsam. „Mein Name ist Mr. Smith, und dieser Gentleman ist Mr. Jones. Wir sind vom FBI.“ Der angebliche Mr. Smith hält ihr irgendeine Marke unter die Nase, viel zu kurz, als dass Amanda etwas darauf erkennen kann."
+    },
+    "parent": "3eedc438-25cf-4cc3-bbba-d39764ff956b",
+    "next": "532df8ee-6298-49d8-af9d-31cad6439649"
+  },
+  "532df8ee-6298-49d8-af9d-31cad6439649": {
+    "name": "Robotess",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/robotess.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "„Wir möchten Sie gerne um Ihre Mithilfe bitten!“ sagt Mr. Smith und nimmt seine schwarze Sonnenbrille herunter. „Dürfen wir bitte hereinkommen?“ Amanda lässt die beiden Männer mit einer einladenden Geste eintreten und führt sie in das riesige Wohnzimmer ihrer Eltern. Dort nehmen sie alle drei auf der üppigen hellbeigen Ledercouch Platz. „Wie kann ich Ihnen helfen?“ fragt Amanda neugierig."
+    },
+    "parent": "66580878-71b2-40c6-9a38-d1d9e649d762",
+    "next": "94f1e441-cc61-4d21-a5c0-94500278d94f"
+  },
+  "94f1e441-cc61-4d21-a5c0-94500278d94f": {
+    "name": "Robotess",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/robotess.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "„Nun, Miss, wir sind auf der Jagd nach einer kriminellen Betrüger-Bande, die in der letzten Zeit in dieser Gegend ihr Unwesen getrieben hat und schon Dutzende gutgläubiger Menschen um sehr viel Geld gebracht hat! Dabei gehen die Kerle unheimlich raffiniert vor! Sie haben jedes Mal eine andere Masche, oftmals geben sie sich als Versicherungsvertreter oder Beamte aus.“ Amanda nickt bei seinen Worten ernsthaft, als ob sie alles begriffen hätte."
+    },
+    "parent": "532df8ee-6298-49d8-af9d-31cad6439649",
+    "next": "a548b85e-2133-4618-82bd-fd21281048be"
+  },
+  "dc5bc1ed-6dab-4d3c-86ee-663a71767033": {
+    "name": "Robotess",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/robotess.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "Amanda kommt sich ein wenig lächerlich vor in der Kleidung, die Mr. Smith höchstpersönlich in ihrem Zimmer für sie ausgesucht hat, während sein Kollege Mr. Jones die Videokameras im Wohnzimmer installiert hat. „Meinen Sie tatsächlich, dass ich so etwas anziehen kann?“ fragt Amanda zweifelnd, während sie sich im großen Wandspiegel betrachtet. „Ist das nicht irgendwie ... nuttig?“ Mr. Jones hat ein komplett durchsichtiges weißes Baby-Doll-Nachthemd, einen winzigen weißen String-Slip und halterlose weiße Strümpfe für sie ausgesucht, dazu die hochhackigen Glitzerschuhe von ihrem Abschlußball."
+    },
+    "parent": "0a00f84d-63fa-417a-b4c3-2a46af47ba98",
+    "next": "9e7560a7-7ed8-44d6-882d-da0a23c7cd6a"
+  },
+  "9e7560a7-7ed8-44d6-882d-da0a23c7cd6a": {
+    "name": "Robotess",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/robotess.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "„Es ist perfekt!“ raunt Mr. Smith ihr verschwörerisch ins Ohr. „Du sollst die Typen ja so lange ablenken, bis wir da sind. Wenn du sie in diesem Aufzug empfängst, werden sie gar nicht mehr wegwollen!“ sagt er und reibt sich dabei die vor Erregung verschwitzten Hände. „Komm und zeig dich Mr. Jones! Du wirst sehen, dass auch er einverstanden sein wird!“ Dem schwarzen Mr. Jones fallen beinahe die Augen aus dem Kopf, als sein Kumpel mit der halbnackten blonden Amanda ins Schlepptau ins Wohnzimmer kommt. „Oh Mann, die Typen werden vielleicht darauf abfahren!“ grinst er und klatscht begeistert die Hände zusammen ..."
+    },
+    "parent": "dc5bc1ed-6dab-4d3c-86ee-663a71767033",
+    "next": "2e26bfad-6370-4718-995e-f81ac361e841"
+  },
+  "2e26bfad-6370-4718-995e-f81ac361e841": {
+    "name": "Robotess",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/robotess.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "Kurze Zeit später in einem vor dem Grundstück geparkten Lieferwagen:\n„Jetzt seid ihr an der Reihe, Jungs!“\n„Hat sie Euch die Story abgekauft?“\n„Aber klar doch! Die Kleine sitzt jetzt in ihrem kürzesten Baby-Doll alleine zu Hause und wartet schon ganz aufgeregt darauf, in ihrem ersten Pornofilm die Beine für Euch breit zu machen und Euch ihr Fötzchen hinhalten zu dürfen!“\n„Oh, Mann, ist das vielleicht geil, mir geht gleich einer ab!“"
+    },
+    "parent": "9e7560a7-7ed8-44d6-882d-da0a23c7cd6a",
+    "next": "2c848cf7-2922-4813-bf4a-6292d9fbccdd"
+  },
+  "2c848cf7-2922-4813-bf4a-6292d9fbccdd": {
+    "name": "Robotess",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/robotess.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "„Und vergesst nicht: Alle Kameras sind auf die Wohnzimmercouch ausgerichtet! Ich will sehen, wie Ihr sie entjungfert, und ich will auch sehen, wie sie in den Arsch gebumst wird! Und ich will ihr Gesicht in Nahaufnahme sehen, dafür nehmt ihr noch diese digitale Videokamera hier mit!“\n„Na, ich schätze da werden aber die Jungs in Daddy´s Firma aber große Augen machen, wenn sie das ach so unschuldige Töchterchen ihres Chefs bereitwillig in einem heißen Pornofilm mitspielen sehen!“\n„Hähä, er wird sich dort überhaupt nicht mehr blicken lassen können, und schon sehr bald wird die Firma und dazu sein gesamtes Vermögen uns gehören!“\n„Und wir hätten nicht übel Lust, uns die Kleine für unsere Sexspielchen häufiger zu krallen!“\n„Macht mit ihr, was ihr wollt! Wenn ihr sie schwängert, zahlen wir Euch einen Bonus drauf!“\n„Also, los geht´s, Jungs ... !“"
+    },
+    "parent": "2e26bfad-6370-4718-995e-f81ac361e841",
+    "signals": {
+      "storyEnd": {
+        "Number": "2"
+      },
+      "parent": "2c848cf7-2922-4813-bf4a-6292d9fbccdd"
+    }
+  },
+  "1df260a0-b291-497e-b977-d92f9a5fc798": {
+    "name": "Alien",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/alien.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "„Scheiße\", flucht der Schwarze. „Der Kerl ist abgehauen - der wusste wohl, dass wir seine Schulden eintreiben wollen.\" Amanda sieht die beiden Typen ganz verdattert an - ihr Vater und Schulden, das konnte doch nicht sein."
+    },
+    "parent": "f677135b-0940-4956-9676-286a8cdb8873",
+    "next": "e5798172-f9e9-4bdf-ab7c-a0de9db5203d"
+  },
+  "e5798172-f9e9-4bdf-ab7c-a0de9db5203d": {
+    "name": "Alien",
+    "character_uuid": "d0635fa1-212a-4370-bc25-14d4fa09cc2d",
+    "portrait": "./img/avatar/alien.png",
+    "text": {
+      "en": "",
+      "fr": "",
+      "de": "Nach kurzem Überlegen muss Mr. Smith hämisch grinsen. Er stößt den anderen an und meint „Na, dann nehmen wir halt sein Töchterchen als Bezahlung.\" Jetzt muss auch der Schwarze grinsen. Amanda hingegen hat die Augen aufgerissen und ihr Kinn klappt vor Entsetzen nach unten. Das kann doch nicht der Ernst dieser Männer sein."
+    },
+    "choices": [
+      {
+        "text": {
+          "en": "",
+          "fr": "",
+          "de": "Amanda hilft den Männern"
+        },
+        "next": "d934925d-2289-4044-a965-475f34b09330",
+        "parent": "e5798172-f9e9-4bdf-ab7c-a0de9db5203d"
+      }
+    ],
+    "parent": "1df260a0-b291-497e-b977-d92f9a5fc798"
+  }
+}

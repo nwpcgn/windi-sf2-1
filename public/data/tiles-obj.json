@@ -1,0 +1,194 @@
+{
+  "props": [
+    {
+      "file": "./img/tile/props/artifact.png",
+      "set": "obj",
+      "name": "Artifact"
+    },
+    { "file": "./img/tile/props/flag_a.png", "set": "obj", "name": "Flag A" },
+    { "file": "./img/tile/props/flag_b.png", "set": "obj", "name": "Flag B" },
+    { "file": "./img/tile/props/log.png", "set": "obj", "name": "Log" },
+    {
+      "file": "./img/tile/props/platform.png",
+      "set": "obj",
+      "name": "Platform"
+    },
+    { "file": "./img/tile/props/rock_01.png", "set": "obj", "name": "Rock 01" },
+    { "file": "./img/tile/props/rock_02.png", "set": "obj", "name": "Rock 02" },
+    { "file": "./img/tile/props/rock_03.png", "set": "obj", "name": "Rock 03" },
+    { "file": "./img/tile/props/stump.png", "set": "obj", "name": "Stump" },
+    { "file": "./img/tile/props/tree_01.png", "set": "obj", "name": "Tree 01" },
+    { "file": "./img/tile/props/tree_02.png", "set": "obj", "name": "Tree 02" },
+    { "file": "./img/tile/props/tree_03.png", "set": "obj", "name": "Tree 03" },
+    { "file": "./img/tile/props/tree_04.png", "set": "obj", "name": "Tree 04" },
+    { "file": "./img/tile/props/tree_05.png", "set": "obj", "name": "Tree 05" },
+    { "file": "./img/tile/props/tree_06.png", "set": "obj", "name": "Tree 06" },
+    { "file": "./img/tile/props/well.png", "set": "obj", "name": "Well" }
+  ],
+  "tiles": [
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_a_01.png",
+      "set": "tiles",
+      "name": "Decor Tile A 01"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_a_02.png",
+      "set": "tiles",
+      "name": "Decor Tile A 02"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_a_03.png",
+      "set": "tiles",
+      "name": "Decor Tile A 03"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_a_04.png",
+      "set": "tiles",
+      "name": "Decor Tile A 04"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_a_05.png",
+      "set": "tiles",
+      "name": "Decor Tile A 05"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_a_06.png",
+      "set": "tiles",
+      "name": "Decor Tile A 06"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_a_07.png",
+      "set": "tiles",
+      "name": "Decor Tile A 07"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_a_08.png",
+      "set": "tiles",
+      "name": "Decor Tile A 08"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_a_09.png",
+      "set": "tiles",
+      "name": "Decor Tile A 09"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_b_01.png",
+      "set": "tiles",
+      "name": "Decor Tile B 01"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_b_02.png",
+      "set": "tiles",
+      "name": "Decor Tile B 02"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_b_03.png",
+      "set": "tiles",
+      "name": "Decor Tile B 03"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_b_04.png",
+      "set": "tiles",
+      "name": "Decor Tile B 04"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_b_05.png",
+      "set": "tiles",
+      "name": "Decor Tile B 05"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_b_06.png",
+      "set": "tiles",
+      "name": "Decor Tile B 06"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_b_07.png",
+      "set": "tiles",
+      "name": "Decor Tile B 07"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_b_08.png",
+      "set": "tiles",
+      "name": "Decor Tile B 08"
+    },
+    {
+      "file": "./img/tile/decor_tiles/decor_tile_b_09.png",
+      "set": "tiles",
+      "name": "Decor Tile B 09"
+    },
+    {
+      "file": "./img/tile/tiles/ground_tile_01_a.png",
+      "set": "tiles",
+      "name": "Ground Tile 01 A"
+    },
+    {
+      "file": "./img/tile/tiles/ground_tile_01_b.png",
+      "set": "tiles",
+      "name": "Ground Tile 01 B"
+    },
+    {
+      "file": "./img/tile/tiles/ground_tile_01_c.png",
+      "set": "tiles",
+      "name": "Ground Tile 01 C"
+    },
+    {
+      "file": "./img/tile/tiles/ground_tile_02_a.png",
+      "set": "tiles",
+      "name": "Ground Tile 02 A"
+    },
+    {
+      "file": "./img/tile/tiles/ground_tile_02_b.png",
+      "set": "tiles",
+      "name": "Ground Tile 02 B"
+    },
+    {
+      "file": "./img/tile/tiles/ground_tile_02_c.png",
+      "set": "tiles",
+      "name": "Ground Tile 02 C"
+    }
+  ],
+  "set1": [
+    "./img/tile/decor_tiles/decor_tile_a_01.png",
+    "./img/tile/decor_tiles/decor_tile_a_02.png",
+    "./img/tile/decor_tiles/decor_tile_a_03.png",
+    "./img/tile/decor_tiles/decor_tile_a_04.png",
+    "./img/tile/decor_tiles/decor_tile_a_05.png",
+    "./img/tile/decor_tiles/decor_tile_a_06.png",
+    "./img/tile/decor_tiles/decor_tile_a_07.png",
+    "./img/tile/decor_tiles/decor_tile_a_08.png",
+    "./img/tile/decor_tiles/decor_tile_a_09.png",
+    "./img/tile/decor_tiles/decor_tile_b_01.png",
+    "./img/tile/decor_tiles/decor_tile_b_02.png",
+    "./img/tile/decor_tiles/decor_tile_b_03.png",
+    "./img/tile/decor_tiles/decor_tile_b_04.png",
+    "./img/tile/decor_tiles/decor_tile_b_05.png",
+    "./img/tile/decor_tiles/decor_tile_b_06.png",
+    "./img/tile/decor_tiles/decor_tile_b_07.png",
+    "./img/tile/decor_tiles/decor_tile_b_08.png",
+    "./img/tile/decor_tiles/decor_tile_b_09.png",
+    "./img/tile/tiles/ground_tile_01_a.png",
+    "./img/tile/tiles/ground_tile_01_b.png",
+    "./img/tile/tiles/ground_tile_01_c.png",
+    "./img/tile/tiles/ground_tile_02_a.png",
+    "./img/tile/tiles/ground_tile_02_b.png",
+    "./img/tile/tiles/ground_tile_02_c.png"
+  ],
+  "set2": [
+    "./img/tile/props/artifact.png",
+    "./img/tile/props/flag_a.png",
+    "./img/tile/props/flag_b.png",
+    "./img/tile/props/log.png",
+    "./img/tile/props/platform.png",
+    "./img/tile/props/rock_01.png",
+    "./img/tile/props/rock_02.png",
+    "./img/tile/props/rock_03.png",
+    "./img/tile/props/stump.png",
+    "./img/tile/props/tree_01.png",
+    "./img/tile/props/tree_02.png",
+    "./img/tile/props/tree_03.png",
+    "./img/tile/props/tree_04.png",
+    "./img/tile/props/tree_05.png",
+    "./img/tile/props/tree_06.png",
+    "./img/tile/props/well.png"
+  ]
+}

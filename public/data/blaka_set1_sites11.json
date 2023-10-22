@@ -1,0 +1,570 @@
+{
+  "sp_id": "blaka_set1",
+  "slug": "blanka_bl",
+  "sprites": [
+    {
+      "slug": "bl_cro_punch_l",
+      "name": "Crouch Punch L",
+      "sprites": {
+        "blanka_bl_cro_punch_l_0": [
+          5,
+          5,
+          122,
+          58
+        ],
+        "blanka_bl_cro_punch_l_1": [
+          137,
+          5,
+          168,
+          51
+        ],
+        "blanka_bl_cro_punch_l_2": [
+          315,
+          5,
+          158,
+          53
+        ]
+      }
+    },
+    {
+      "slug": "bl_cro_punch_m",
+      "name": "Crouch Punch M",
+      "sprites": {
+        "blanka_bl_cro_punch_m_0": [
+          483,
+          5,
+          87,
+          65
+        ],
+        "blanka_bl_cro_punch_m_1": [
+          580,
+          5,
+          159,
+          63
+        ],
+        "blanka_bl_cro_punch_m_2": [
+          749,
+          5,
+          167,
+          71
+        ],
+        "blanka_bl_cro_punch_m_3": [
+          5,
+          86,
+          161,
+          72
+        ]
+      }
+    },
+    {
+      "slug": "bl_down",
+      "name": "Stand Down",
+      "sprites": {
+        "blanka_bl_down_0": [
+          176,
+          86,
+          96,
+          100
+        ],
+        "blanka_bl_down_1": [
+          282,
+          86,
+          118,
+          100
+        ],
+        "blanka_bl_down_2": [
+          410,
+          86,
+          127,
+          100
+        ],
+        "blanka_bl_down_3": [
+          547,
+          86,
+          163,
+          53
+        ],
+        "blanka_bl_down_4": [
+          720,
+          86,
+          177,
+          39
+        ]
+      }
+    },
+    {
+      "slug": "bl_kick_h",
+      "name": "Kick H",
+      "sprites": {
+        "blanka_bl_kick_h_0": [
+          720,
+          135,
+          91,
+          106
+        ],
+        "blanka_bl_kick_h_1": [
+          5,
+          251,
+          163,
+          106
+        ],
+        "blanka_bl_kick_h_2": [
+          821,
+          135,
+          129,
+          109
+        ],
+        "blanka_bl_kick_h_3": [
+          178,
+          254,
+          88,
+          128
+        ],
+        "blanka_bl_kick_h_4": [
+          276,
+          254,
+          138,
+          99
+        ],
+        "blanka_bl_kick_h_5": [
+          424,
+          254,
+          103,
+          76
+        ],
+        "blanka_bl_kick_h_6": [
+          537,
+          254,
+          99,
+          87
+        ]
+      }
+    },
+    {
+      "slug": "bl_kick_l",
+      "name": "Kick L",
+      "sprites": {
+        "blanka_bl_kick_l_0": [
+          646,
+          254,
+          87,
+          97
+        ],
+        "blanka_bl_kick_l_1": [
+          743,
+          254,
+          105,
+          95
+        ],
+        "blanka_bl_kick_l_2": [
+          424,
+          359,
+          146,
+          94
+        ]
+      }
+    },
+    {
+      "slug": "bl_kick_m",
+      "name": "Kick M",
+      "sprites": {
+        "blanka_bl_kick_m_0": [
+          858,
+          254,
+          100,
+          93
+        ],
+        "blanka_bl_kick_m_1": [
+          858,
+          357,
+          117,
+          94
+        ],
+        "blanka_bl_kick_m_2": [
+          5,
+          461,
+          150,
+          93
+        ]
+      }
+    },
+    {
+      "slug": "bl_kick_pre",
+      "name": "Kick Pre",
+      "sprites": {
+        "blanka_bl_kick_pre_0": [
+          165,
+          461,
+          99,
+          87
+        ],
+        "blanka_bl_kick_pre_1": [
+          274,
+          461,
+          103,
+          122
+        ],
+        "blanka_bl_kick_pre_2": [
+          580,
+          461,
+          66,
+          122
+        ],
+        "blanka_bl_kick_pre_3": [
+          656,
+          461,
+          60,
+          122
+        ],
+        "blanka_bl_kick_pre_4": [
+          726,
+          461,
+          75,
+          122
+        ]
+      }
+    },
+    {
+      "slug": "bl_punch_h",
+      "name": "Punch Heavy",
+      "sprites": {
+        "blanka_bl_punch_h_0": [
+          811,
+          461,
+          105,
+          94
+        ],
+        "blanka_bl_punch_h_1": [
+          5,
+          565,
+          144,
+          97
+        ],
+        "blanka_bl_punch_h_2": [
+          387,
+          565,
+          119,
+          97
+        ],
+        "blanka_bl_punch_h_3": [
+          811,
+          565,
+          144,
+          97
+        ],
+        "blanka_bl_punch_h_4": [
+          159,
+          565,
+          105,
+          94
+        ]
+      }
+    },
+    {
+      "slug": "bl_recover",
+      "name": "Recover",
+      "sprites": {
+        "blanka_bl_recover_0": [
+          5,
+          672,
+          141,
+          67
+        ],
+        "blanka_bl_recover_1": [
+          156,
+          672,
+          104,
+          100
+        ],
+        "blanka_bl_recover_2": [
+          270,
+          672,
+          92,
+          107
+        ],
+        "blanka_bl_recover_3": [
+          372,
+          672,
+          125,
+          94
+        ]
+      }
+    },
+    {
+      "slug": "bl_role_1",
+      "name": "Role 1",
+      "sprites": {
+        "blanka_bl_role_1_0": [
+          507,
+          672,
+          90,
+          100
+        ],
+        "blanka_bl_role_1_1": [
+          607,
+          672,
+          90,
+          100
+        ],
+        "blanka_bl_role_1_2": [
+          707,
+          672,
+          90,
+          100
+        ],
+        "blanka_bl_role_1_3": [
+          807,
+          672,
+          90,
+          100
+        ],
+        "blanka_bl_role_1_4": [
+          5,
+          782,
+          90,
+          100
+        ],
+        "blanka_bl_role_1_5": [
+          105,
+          782,
+          90,
+          100
+        ],
+        "blanka_bl_role_1_6": [
+          372,
+          782,
+          90,
+          100
+        ],
+        "blanka_bl_role_1_7": [
+          472,
+          782,
+          90,
+          100
+        ]
+      }
+    },
+    {
+      "slug": "bl_role_2",
+      "name": "Role 2",
+      "sprites": {
+        "blanka_bl_role_2_0": [
+          572,
+          782,
+          93,
+          98
+        ],
+        "blanka_bl_role_2_1": [
+          675,
+          782,
+          122,
+          100
+        ],
+        "blanka_bl_role_2_2": [
+          807,
+          782,
+          110,
+          99
+        ],
+        "blanka_bl_role_2_3": [
+          926,
+          5,
+          122,
+          100
+        ],
+        "blanka_bl_role_2_4": [
+          960,
+          115,
+          144,
+          92
+        ],
+        "blanka_bl_role_2_5": [
+          968,
+          217,
+          93,
+          98
+        ],
+        "blanka_bl_role_2_6": [
+          985,
+          325,
+          91,
+          110
+        ],
+        "blanka_bl_role_2_7": [
+          985,
+          445,
+          106,
+          99
+        ],
+        "blanka_bl_role_2_8": [
+          965,
+          554,
+          102,
+          88
+        ]
+      }
+    },
+    {
+      "slug": "bl_stand",
+      "name": "Stand",
+      "sprites": {
+        "blanka_bl_stand_0": [
+          965,
+          652,
+          103,
+          95
+        ],
+        "blanka_bl_stand_1": [
+          927,
+          757,
+          102,
+          96
+        ],
+        "blanka_bl_stand_2": [
+          205,
+          863,
+          101,
+          98
+        ]
+      }
+    },
+    {
+      "slug": "bl_up",
+      "name": "Up",
+      "sprites": {
+        "blanka_bl_up_0": [
+          927,
+          863,
+          86,
+          113
+        ],
+        "blanka_bl_up_1": [
+          1114,
+          5,
+          105,
+          130
+        ],
+        "blanka_bl_up_2": [
+          1114,
+          145,
+          98,
+          151
+        ]
+      }
+    },
+    {
+      "slug": "bl_win",
+      "name": "Win",
+      "sprites": {
+        "blanka_bl_win_00": [
+          1086,
+          306,
+          91,
+          63
+        ],
+        "blanka_bl_win_01": [
+          5,
+          379,
+          92,
+          72
+        ],
+        "blanka_bl_win_02": [
+          1101,
+          379,
+          99,
+          87
+        ],
+        "blanka_bl_win_03": [
+          276,
+          379,
+          92,
+          72
+        ],
+        "blanka_bl_win_04": [
+          1101,
+          476,
+          99,
+          87
+        ],
+        "blanka_bl_win_05": [
+          1078,
+          573,
+          87,
+          121
+        ],
+        "blanka_bl_win_06": [
+          1078,
+          704,
+          95,
+          121
+        ],
+        "blanka_bl_win_07": [
+          1039,
+          835,
+          95,
+          121
+        ],
+        "blanka_bl_win_08": [
+          5,
+          966,
+          95,
+          121
+        ],
+        "blanka_bl_win_09": [
+          316,
+          966,
+          95,
+          121
+        ],
+        "blanka_bl_win_10": [
+          421,
+          966,
+          95,
+          121
+        ],
+        "blanka_bl_win_11": [
+          526,
+          966,
+          104,
+          81
+        ],
+        "blanka_bl_win_12": [
+          640,
+          966,
+          99,
+          87
+        ],
+        "blanka_bl_win_13": [
+          580,
+          379,
+          92,
+          72
+        ],
+        "blanka_bl_win_14": [
+          682,
+          379,
+          91,
+          63
+        ],
+        "blanka_bl_win_15": [
+          387,
+          476,
+          92,
+          72
+        ],
+        "blanka_bl_win_16": [
+          749,
+          966,
+          99,
+          87
+        ],
+        "blanka_bl_win_17": [
+          1023,
+          966,
+          103,
+          95
+        ]
+      }
+    }
+  ]
+}

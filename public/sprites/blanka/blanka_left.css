@@ -1,0 +1,318 @@
+[data-sevenup^="blanka/"] { background-image: url('./sprites/blanka/blanka_left.png'); background-size: 987px 847px }
+[data-sevenup="blanka/bl_crou_pre_0.png"] {
+    width: 99px;
+    height: 87px;
+    background-position: -5px -5px;
+}
+
+[data-sevenup="blanka/bl_crou_pre_1.png"] {
+    width: 92px;
+    height: 72px;
+    background-position: -114px -5px;
+}
+
+[data-sevenup="blanka/bl_crou_pre_2.png"] {
+    width: 91px;
+    height: 63px;
+    background-position: -216px -5px;
+}
+
+[data-sevenup="blanka/bl_crouch_0.png"] {
+    width: 90px;
+    height: 63px;
+    background-position: -317px -5px;
+}
+
+[data-sevenup="blanka/bl_crouch_1.png"] {
+    width: 85px;
+    height: 63px;
+    background-position: -417px -5px;
+}
+
+[data-sevenup="blanka/bl_crouch_2.png"] {
+    width: 90px;
+    height: 63px;
+    background-position: -512px -5px;
+}
+
+[data-sevenup="blanka/bl_crouch_3.png"] {
+    width: 85px;
+    height: 63px;
+    background-position: -612px -5px;
+}
+
+[data-sevenup="blanka/bl_crouch_4.png"] {
+    width: 90px;
+    height: 63px;
+    background-position: -216px -78px;
+}
+
+[data-sevenup="blanka/bl_jump_back_0.png"] {
+    width: 81px;
+    height: 89px;
+    background-position: -316px -78px;
+}
+
+[data-sevenup="blanka/bl_jump_back_1.png"] {
+    width: 80px;
+    height: 87px;
+    background-position: -407px -78px;
+}
+
+[data-sevenup="blanka/bl_jump_back_2.png"] {
+    width: 95px;
+    height: 87px;
+    background-position: -497px -78px;
+}
+
+[data-sevenup="blanka/bl_jump_forw_0.png"] {
+    width: 124px;
+    height: 84px;
+    background-position: -602px -78px;
+}
+
+[data-sevenup="blanka/bl_jump_forw_1.png"] {
+    width: 126px;
+    height: 81px;
+    background-position: -5px -172px;
+}
+
+[data-sevenup="blanka/bl_jump_forw_2.png"] {
+    width: 124px;
+    height: 82px;
+    background-position: -141px -172px;
+}
+
+[data-sevenup="blanka/bl_jump_pre_0.png"] {
+    width: 99px;
+    height: 87px;
+    background-position: -602px -172px;
+}
+
+[data-sevenup="blanka/bl_jump_pre_1.png"] {
+    width: 92px;
+    height: 72px;
+    background-position: -5px -269px;
+}
+
+[data-sevenup="blanka/bl_jump_pre_2.png"] {
+    width: 91px;
+    height: 63px;
+    background-position: -107px -269px;
+}
+
+[data-sevenup="blanka/bl_punch_cl_0.png"] {
+    width: 105px;
+    height: 94px;
+    background-position: -208px -269px;
+}
+
+[data-sevenup="blanka/bl_punch_cl_1.png"] {
+    width: 144px;
+    height: 97px;
+    background-position: -323px -269px;
+}
+
+[data-sevenup="blanka/bl_punch_cl_2.png"] {
+    width: 119px;
+    height: 97px;
+    background-position: -477px -269px;
+}
+
+[data-sevenup="blanka/bl_punch_cl_3.png"] {
+    width: 144px;
+    height: 97px;
+    background-position: -5px -376px;
+}
+
+[data-sevenup="blanka/bl_punch_cl_4.png"] {
+    width: 105px;
+    height: 94px;
+    background-position: -606px -269px;
+}
+
+[data-sevenup="blanka/bl_punch_h_cl_0.png"] {
+    width: 117px;
+    height: 94px;
+    background-position: -159px -373px;
+}
+
+[data-sevenup="blanka/bl_punch_h_cl_1.png"] {
+    width: 140px;
+    height: 97px;
+    background-position: -606px -373px;
+}
+
+[data-sevenup="blanka/bl_punch_h_cl_2.png"] {
+    width: 110px;
+    height: 118px;
+    background-position: -159px -480px;
+}
+
+[data-sevenup="blanka/bl_punch_h_cl_3.png"] {
+    width: 140px;
+    height: 97px;
+    background-position: -279px -480px;
+}
+
+[data-sevenup="blanka/bl_punch_h_cl_4.png"] {
+    width: 117px;
+    height: 94px;
+    background-position: -429px -480px;
+}
+
+[data-sevenup="blanka/bl_stand_0.png"] {
+    width: 103px;
+    height: 95px;
+    background-position: -556px -480px;
+}
+
+[data-sevenup="blanka/bl_stand_1.png"] {
+    width: 102px;
+    height: 96px;
+    background-position: -5px -585px;
+}
+
+[data-sevenup="blanka/bl_stand_2.png"] {
+    width: 101px;
+    height: 98px;
+    background-position: -429px -585px;
+}
+
+[data-sevenup="blanka/bl_thunder_0.png"] {
+    width: 93px;
+    height: 75px;
+    background-position: -540px -585px;
+}
+
+[data-sevenup="blanka/bl_thunder_1.png"] {
+    width: 86px;
+    height: 72px;
+    background-position: -643px -585px;
+}
+
+[data-sevenup="blanka/bl_thunder_2.png"] {
+    width: 136px;
+    height: 86px;
+    background-position: -736px -5px;
+}
+
+[data-sevenup="blanka/bl_thunder_3.png"] {
+    width: 85px;
+    height: 63px;
+    background-position: -736px -101px;
+}
+
+[data-sevenup="blanka/bl_thunder_4.png"] {
+    width: 136px;
+    height: 86px;
+    background-position: -721px -174px;
+}
+
+[data-sevenup="blanka/bl_thunder_5.png"] {
+    width: 86px;
+    height: 72px;
+    background-position: -721px -270px;
+}
+
+[data-sevenup="blanka/bl_thunder_6.png"] {
+    width: 93px;
+    height: 75px;
+    background-position: -756px -352px;
+}
+
+[data-sevenup="blanka/bl_walk_back_0.png"] {
+    width: 97px;
+    height: 95px;
+    background-position: -756px -437px;
+}
+
+[data-sevenup="blanka/bl_walk_back_1.png"] {
+    width: 90px;
+    height: 91px;
+    background-position: -739px -542px;
+}
+
+[data-sevenup="blanka/bl_walk_back_2.png"] {
+    width: 96px;
+    height: 87px;
+    background-position: -117px -643px;
+}
+
+[data-sevenup="blanka/bl_walk_back_3.png"] {
+    width: 97px;
+    height: 94px;
+    background-position: -223px -643px;
+}
+
+[data-sevenup="blanka/bl_walk_back_4.png"] {
+    width: 101px;
+    height: 95px;
+    background-position: -739px -643px;
+}
+
+[data-sevenup="blanka/bl_walk_back_5.png"] {
+    width: 97px;
+    height: 94px;
+    background-position: -5px -748px;
+}
+
+[data-sevenup="blanka/bl_walk_back_6.png"] {
+    width: 96px;
+    height: 87px;
+    background-position: -112px -748px;
+}
+
+[data-sevenup="blanka/bl_walk_back_7.png"] {
+    width: 90px;
+    height: 91px;
+    background-position: -218px -748px;
+}
+
+[data-sevenup="blanka/bl_walk_forw_0.png"] {
+    width: 97px;
+    height: 77px;
+    background-position: -318px -748px;
+}
+
+[data-sevenup="blanka/bl_walk_forw_1.png"] {
+    width: 100px;
+    height: 74px;
+    background-position: -425px -748px;
+}
+
+[data-sevenup="blanka/bl_walk_forw_2.png"] {
+    width: 101px;
+    height: 78px;
+    background-position: -535px -748px;
+}
+
+[data-sevenup="blanka/bl_walk_forw_3.png"] {
+    width: 103px;
+    height: 83px;
+    background-position: -646px -748px;
+}
+
+[data-sevenup="blanka/bl_walk_forw_4.png"] {
+    width: 101px;
+    height: 78px;
+    background-position: -759px -748px;
+}
+
+[data-sevenup="blanka/bl_walk_forw_5.png"] {
+    width: 100px;
+    height: 74px;
+    background-position: -882px -5px;
+}
+
+[data-sevenup="blanka/bl_walk_forw_6.png"] {
+    width: 97px;
+    height: 77px;
+    background-position: -882px -89px;
+}
+
+[data-sevenup="blanka/bl_walk_forw_7.png"] {
+    width: 100px;
+    height: 82px;
+    background-position: -407px -176px;
+}

@@ -1,0 +1,388 @@
+﻿{
+  "maps": [
+    {
+      "id": 1,
+      "name": "Haven",
+      "slug": "haven",
+      "imgUrl": "./img/game/maps/haven.png",
+      "preUrl": "./img/game/maps/pre/haven.png",
+      "description": "no"
+    },
+    {
+      "id": 2,
+      "name": "Bind",
+      "slug": "bind",
+      "imgUrl": "./img/game/maps/bind.png",
+      "preUrl": "./img/game/maps/pre/bind.png",
+      "description": "no"
+    },
+    {
+      "id": 3,
+      "name": "Lotus",
+      "slug": "lotus",
+      "imgUrl": "./img/game/maps/lotus.png",
+      "preUrl": "./img/game/maps/pre/lotus.png",
+      "description": "no"
+    },
+    {
+      "id": 4,
+      "name": "Ascent",
+      "slug": "ascent",
+      "imgUrl": "./img/game/maps/ascent.png",
+      "preUrl": "./img/game/maps/pre/ascent.png",
+      "description": "no"
+    },
+    {
+      "id": 5,
+      "name": "Icebox",
+      "slug": "icebox",
+      "imgUrl": "./img/game/maps/icebox.png",
+      "preUrl": "./img/game/maps/pre/icebox.png",
+      "description": "no"
+    },
+    {
+      "id": 6,
+      "name": "Pearl",
+      "slug": "pearl",
+      "imgUrl": "./img/game/maps/pearl.png",
+      "preUrl": "./img/game/maps/pre/pearl.png",
+      "description": "no"
+    },
+    {
+      "id": 7,
+      "name": "Split",
+      "slug": "split",
+      "imgUrl": "./img/game/maps/split.png",
+      "preUrl": "./img/game/maps/pre/split.png",
+      "description": "no"
+    },
+    {
+      "id": 8,
+      "name": "Breeze",
+      "slug": "breeze",
+      "imgUrl": "./img/game/maps/breeze.png",
+      "preUrl": "./img/game/maps/pre/breeze.png",
+      "description": "no"
+    },
+    {
+      "id": 9,
+      "name": "Fracture",
+      "slug": "fracture",
+      "imgUrl": "./img/game/maps/fracture.png",
+      "preUrl": "./img/game/maps/pre/fracture.png",
+      "description": "no"
+    }
+  ],
+  "character": [
+    {
+      "id": 1,
+      "name": "Skye",
+      "slug": "skye",
+      "characterUrl": "./img/game/character/skye.png",
+      "profilUrl": "./img/game/profil/skye.png",
+      "personUrl": "./img/game/person/skye.png",
+      "description": "no"
+    },
+    {
+      "id": 2,
+      "name": "Kayo",
+      "slug": "kayo",
+      "characterUrl": "./img/game/character/kayo.png",
+      "profilUrl": "./img/game/profil/kayo.png",
+      "personUrl": "./img/game/person/kayo.png",
+      "description": "no"
+    },
+    {
+      "id": 3,
+      "name": "Omen",
+      "slug": "omen",
+      "characterUrl": "./img/game/character/omen.png",
+      "profilUrl": "./img/game/profil/omen.png",
+      "personUrl": "./img/game/person/omen.png",
+      "description": "no"
+    },
+    {
+      "id": 4,
+      "name": "Astra",
+      "slug": "astra",
+      "characterUrl": "./img/game/character/astra.png",
+      "profilUrl": "./img/game/profil/astra.png",
+      "personUrl": "./img/game/person/astra.png",
+      "description": "no"
+    },
+    {
+      "id": 5,
+      "name": "Breach",
+      "slug": "breach",
+      "characterUrl": "./img/game/character/breach.png",
+      "profilUrl": "./img/game/profil/breach.png",
+      "personUrl": "./img/game/person/breach.png",
+      "description": "no"
+    },
+    {
+      "id": 6,
+      "name": "Raze",
+      "slug": "raze",
+      "characterUrl": "./img/game/character/raze.png",
+      "profilUrl": "./img/game/profil/raze.png",
+      "personUrl": "./img/game/person/raze.png",
+      "description": "no"
+    },
+    {
+      "id": 7,
+      "name": "Viper",
+      "slug": "viper",
+      "characterUrl": "./img/game/character/viper.png",
+      "profilUrl": "./img/game/profil/viper.png",
+      "personUrl": "./img/game/person/viper.png",
+      "description": "no"
+    },
+    {
+      "id": 8,
+      "name": "Sova",
+      "slug": "sova",
+      "characterUrl": "./img/game/character/sova.png",
+      "profilUrl": "./img/game/profil/sova.png",
+      "personUrl": "./img/game/person/sova.png",
+      "description": "no"
+    },
+    {
+      "id": 9,
+      "name": "Gekko",
+      "slug": "gekko",
+      "characterUrl": "./img/game/character/gekko.png",
+      "profilUrl": "./img/game/profil/gekko.png",
+      "personUrl": "./img/game/person/gekko.png",
+      "description": "no"
+    },
+    {
+      "id": 10,
+      "name": "Neon",
+      "slug": "neon",
+      "characterUrl": "./img/game/character/neon.png",
+      "profilUrl": "./img/game/profil/neon.png",
+      "personUrl": "./img/game/person/neon.png",
+      "description": "no"
+    },
+    {
+      "id": 11,
+      "name": "Phoenix",
+      "slug": "phoenix",
+      "characterUrl": "./img/game/character/phoenix.png",
+      "profilUrl": "./img/game/profil/phoenix.png",
+      "personUrl": "./img/game/person/phoenix.png",
+      "description": "no"
+    },
+    {
+      "id": 12,
+      "name": "Yoru",
+      "slug": "yoru",
+      "characterUrl": "./img/game/character/yoru.png",
+      "profilUrl": "./img/game/profil/yoru.png",
+      "personUrl": "./img/game/person/yoru.png",
+      "description": "no"
+    },
+    {
+      "id": 13,
+      "name": "Jett",
+      "slug": "jett",
+      "characterUrl": "./img/game/character/jett.png",
+      "profilUrl": "./img/game/profil/jett.png",
+      "personUrl": "./img/game/person/jett.png",
+      "description": "no"
+    },
+    {
+      "id": 14,
+      "name": "Sage",
+      "slug": "sage",
+      "characterUrl": "./img/game/character/sage.png",
+      "profilUrl": "./img/game/profil/sage.png",
+      "personUrl": "./img/game/person/sage.png",
+      "description": "no"
+    },
+    {
+      "id": 15,
+      "name": "Brimstone",
+      "slug": "brimstone",
+      "characterUrl": "./img/game/character/brimstone.png",
+      "profilUrl": "./img/game/profil/brimstone.png",
+      "personUrl": "./img/game/person/brimstone.png",
+      "description": "no"
+    },
+    {
+      "id": 16,
+      "name": "Harbor",
+      "slug": "harbor",
+      "characterUrl": "./img/game/character/harbor.png",
+      "profilUrl": "./img/game/profil/harbor.png",
+      "personUrl": "./img/game/person/harbor.png",
+      "description": "no"
+    },
+    {
+      "id": 17,
+      "name": "Cypher",
+      "slug": "cypher",
+      "characterUrl": "./img/game/character/cypher.png",
+      "profilUrl": "./img/game/profil/cypher.png",
+      "personUrl": "./img/game/person/cypher.png",
+      "description": "no"
+    },
+    {
+      "id": 18,
+      "name": "Chamber",
+      "slug": "chamber",
+      "characterUrl": "./img/game/character/chamber.png",
+      "profilUrl": "./img/game/profil/chamber.png",
+      "personUrl": "./img/game/person/chamber.png",
+      "description": "no"
+    },
+    {
+      "id": 19,
+      "name": "Reyna",
+      "slug": "reyna",
+      "characterUrl": "./img/game/character/reyna.png",
+      "profilUrl": "./img/game/profil/reyna.png",
+      "personUrl": "./img/game/person/reyna.png",
+      "description": "no"
+    },
+    {
+      "id": 20,
+      "name": "Killjoy",
+      "slug": "killjoy",
+      "characterUrl": "./img/game/character/killjoy.png",
+      "profilUrl": "./img/game/profil/killjoy.png",
+      "personUrl": "./img/game/person/killjoy.png",
+      "description": "no"
+    },
+    {
+      "id": 21,
+      "name": "Fade",
+      "slug": "fade",
+      "characterUrl": "./img/game/character/fade.png",
+      "profilUrl": "./img/game/profil/fade.png",
+      "personUrl": "./img/game/person/fade.png",
+      "description": "no"
+    }
+  ],
+  "weapons": [
+    {
+      "id": 1,
+      "name": "Bulldog",
+      "slug": "bulldog",
+      "imgUrl": "./img/game/weapons/bulldog.png",
+      "description": "no"
+    },
+    {
+      "id": 2,
+      "name": "Judge",
+      "slug": "judge",
+      "imgUrl": "./img/game/weapons/judge.png",
+      "description": "no"
+    },
+    {
+      "id": 3,
+      "name": "Vandal",
+      "slug": "vandal",
+      "imgUrl": "./img/game/weapons/vandal.png",
+      "description": "no"
+    },
+    {
+      "id": 4,
+      "name": "Odin",
+      "slug": "odin",
+      "imgUrl": "./img/game/weapons/odin.png",
+      "description": "no"
+    },
+    {
+      "id": 5,
+      "name": "Stinger",
+      "slug": "stinger",
+      "imgUrl": "./img/game/weapons/stinger.png",
+      "description": "no"
+    },
+    {
+      "id": 6,
+      "name": "Frenzy",
+      "slug": "frenzy",
+      "imgUrl": "./img/game/weapons/frenzy.png",
+      "description": "no"
+    },
+    {
+      "id": 7,
+      "name": "Phantom",
+      "slug": "phantom",
+      "imgUrl": "./img/game/weapons/phantom.png",
+      "description": "no"
+    },
+    {
+      "id": 8,
+      "name": "Ares",
+      "slug": "ares",
+      "imgUrl": "./img/game/weapons/ares.png",
+      "description": "no"
+    },
+    {
+      "id": 9,
+      "name": "Guardian",
+      "slug": "guardian",
+      "imgUrl": "./img/game/weapons/guardian.png",
+      "description": "no"
+    },
+    {
+      "id": 10,
+      "name": "Bucky",
+      "slug": "bucky",
+      "imgUrl": "./img/game/weapons/bucky.png",
+      "description": "no"
+    },
+    {
+      "id": 11,
+      "name": "Operator",
+      "slug": "operator",
+      "imgUrl": "./img/game/weapons/operator.png",
+      "description": "no"
+    },
+    {
+      "id": 12,
+      "name": "Ghost",
+      "slug": "ghost",
+      "imgUrl": "./img/game/weapons/ghost.png",
+      "description": "no"
+    },
+    {
+      "id": 13,
+      "name": "Sheriff",
+      "slug": "sheriff",
+      "imgUrl": "./img/game/weapons/sheriff.png",
+      "description": "no"
+    },
+    {
+      "id": 14,
+      "name": "Marshal",
+      "slug": "marshal",
+      "imgUrl": "./img/game/weapons/marshal.png",
+      "description": "no"
+    },
+    {
+      "id": 15,
+      "name": "Classic",
+      "slug": "classic",
+      "imgUrl": "./img/game/weapons/classic.png",
+      "description": "no"
+    },
+    {
+      "id": 16,
+      "name": "Spectre",
+      "slug": "spectre",
+      "imgUrl": "./img/game/weapons/spectre.png",
+      "description": "no"
+    },
+    {
+      "id": 17,
+      "name": "Shorty",
+      "slug": "shorty",
+      "imgUrl": "./img/game/weapons/shorty.png",
+      "description": "no"
+    }
+  ]
+}

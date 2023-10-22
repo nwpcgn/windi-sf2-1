@@ -1,0 +1,275 @@
+.chunli {
+    background-image: url(chunli2.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.chunli-a00 {
+    width: 150px;
+    height: 130px;
+    background-position: -5px -5px;
+}
+
+.chunli-a01 {
+    width: 150px;
+    height: 130px;
+    background-position: -165px -5px;
+}
+
+.chunli-a02 {
+    width: 150px;
+    height: 130px;
+    background-position: -325px -5px;
+}
+
+.chunli-a03 {
+    width: 150px;
+    height: 130px;
+    background-position: -485px -5px;
+}
+
+.chunli-a04 {
+    width: 150px;
+    height: 130px;
+    background-position: -645px -5px;
+}
+
+.chunli-a05 {
+    width: 150px;
+    height: 130px;
+    background-position: -5px -145px;
+}
+
+.chunli-a06 {
+    width: 150px;
+    height: 130px;
+    background-position: -165px -145px;
+}
+
+.chunli-a07 {
+    width: 150px;
+    height: 130px;
+    background-position: -325px -145px;
+}
+
+.chunli-a08 {
+    width: 150px;
+    height: 130px;
+    background-position: -485px -145px;
+}
+
+.chunli-a09 {
+    width: 150px;
+    height: 130px;
+    background-position: -645px -145px;
+}
+
+.chunli-a10 {
+    width: 150px;
+    height: 130px;
+    background-position: -5px -285px;
+}
+
+.chunli-a11 {
+    width: 150px;
+    height: 130px;
+    background-position: -165px -285px;
+}
+
+.chunli-a12 {
+    width: 150px;
+    height: 130px;
+    background-position: -325px -285px;
+}
+
+.chunli-a13 {
+    width: 150px;
+    height: 130px;
+    background-position: -485px -285px;
+}
+
+.chunli-a14 {
+    width: 150px;
+    height: 130px;
+    background-position: -645px -285px;
+}
+
+.chunli-b00 {
+    width: 102px;
+    height: 106px;
+    background-position: -5px -425px;
+}
+
+.chunli-b01 {
+    width: 102px;
+    height: 106px;
+    background-position: -117px -425px;
+}
+
+.chunli-b02 {
+    width: 102px;
+    height: 106px;
+    background-position: -229px -425px;
+}
+
+.chunli-b03 {
+    width: 102px;
+    height: 106px;
+    background-position: -341px -425px;
+}
+
+.chunli-b04 {
+    width: 102px;
+    height: 106px;
+    background-position: -453px -425px;
+}
+
+.chunli-b05 {
+    width: 102px;
+    height: 106px;
+    background-position: -565px -425px;
+}
+
+.chunli-b06 {
+    width: 102px;
+    height: 106px;
+    background-position: -677px -425px;
+}
+
+.chunli-c00 {
+    width: 120px;
+    height: 120px;
+    background-position: -5px -541px;
+}
+
+.chunli-c01 {
+    width: 120px;
+    height: 120px;
+    background-position: -135px -541px;
+}
+
+.chunli-c02 {
+    width: 120px;
+    height: 120px;
+    background-position: -265px -541px;
+}
+
+.chunli-c03 {
+    width: 120px;
+    height: 120px;
+    background-position: -395px -541px;
+}
+
+.chunli-c04 {
+    width: 120px;
+    height: 120px;
+    background-position: -525px -541px;
+}
+
+.chunli-d00 {
+    width: 120px;
+    height: 120px;
+    background-position: -655px -541px;
+}
+
+.chunli-d01 {
+    width: 120px;
+    height: 120px;
+    background-position: -5px -671px;
+}
+
+.chunli-d02 {
+    width: 120px;
+    height: 120px;
+    background-position: -135px -671px;
+}
+
+.chunli-d03 {
+    width: 120px;
+    height: 120px;
+    background-position: -265px -671px;
+}
+
+.chunli-d04 {
+    width: 120px;
+    height: 120px;
+    background-position: -395px -671px;
+}
+
+.chunli-d05 {
+    width: 120px;
+    height: 120px;
+    background-position: -525px -671px;
+}
+
+.chunli-e00 {
+    width: 120px;
+    height: 120px;
+    background-position: -655px -671px;
+}
+
+.chunli-e01 {
+    width: 120px;
+    height: 120px;
+    background-position: -805px -5px;
+}
+
+.chunli-e02 {
+    width: 120px;
+    height: 120px;
+    background-position: -805px -135px;
+}
+
+.chunli-e03 {
+    width: 120px;
+    height: 120px;
+    background-position: -805px -265px;
+}
+
+.chunli-e04 {
+    width: 120px;
+    height: 120px;
+    background-position: -805px -395px;
+}
+
+.chunli-e05 {
+    width: 120px;
+    height: 120px;
+    background-position: -789px -525px;
+}
+
+.chunli-f00 {
+    width: 120px;
+    height: 120px;
+    background-position: -785px -655px;
+}
+
+.chunli-f01 {
+    width: 120px;
+    height: 120px;
+    background-position: -785px -785px;
+}
+
+.chunli-f02 {
+    width: 120px;
+    height: 120px;
+    background-position: -935px -5px;
+}
+
+.chunli-f03 {
+    width: 120px;
+    height: 120px;
+    background-position: -935px -135px;
+}
+
+.chunli-f04 {
+    width: 120px;
+    height: 120px;
+    background-position: -935px -265px;
+}
+
+.chunli-f05 {
+    width: 120px;
+    height: 120px;
+    background-position: -935px -395px;
+}
