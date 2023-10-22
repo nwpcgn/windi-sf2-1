@@ -1,12 +1,12 @@
 <script>
 	import AnimationBar from './_components/AnimationBar.svelte'
-	import Layer from '../lib/Layer.svelte'
 	export let pages = []
 	export let title = 'Animation'
 </script>
 
 <svelte:head><title>{title}</title></svelte:head>
-<Layer>
+
+<section class="layer">
 	<header class="page border border-blue-500 border-dashed">
 		<div>{title}</div>
 		<p class="space-x-4">
@@ -23,4 +23,4 @@
 			<AnimationBar />
 		</div>
 	</article>
-</Layer>
+</section>
