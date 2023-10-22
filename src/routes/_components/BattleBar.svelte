@@ -43,8 +43,7 @@
 		if (left >= xmax) left = xmax
 		// if (top <= ymin) top = base_pos.y
 		// if (top >= ymax) top = ymax
-
-		console.log('Check Outide', { xmin, xmax, ymin, ymax, left, top })
+		if (left <= xmin || left >= xmax) console.log('Check Outide True!', { xmin, xmax, ymin, ymax, left, top })
 	}
 	const handleAction = (item) => {
 		base_obj = item
@@ -108,9 +107,10 @@
 		top: 0;
 		bottom: 0;
 		left: 0;
-		/* background-image: url('/img/arena/blanka.png');
+		color: rgba(239, 68, 68, 0.9);
+		background-image: url('/img/arena/blanka.png');
 		background-repeat: no-repeat;
-		background-size: cover; */
+		background-size: cover;
 		background-position: bottom;
 		opacity: var(--opc);
 		transition: all 0.5s ease-in-out;

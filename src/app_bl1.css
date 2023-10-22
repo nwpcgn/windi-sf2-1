@@ -79,7 +79,9 @@
     background-position: -547px -86px
 }
 
-.bl_left1.blanka_bl_down_4 {
+.bl_left1.blanka_bl_down_4,
+.bl_left1.blanka_bl_down_5,
+.bl_left1.blanka_bl_down_6 {
     width: 177px;
     height: 39px;
     background-position: -720px -86px
