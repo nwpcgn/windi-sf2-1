@@ -89,11 +89,11 @@
 	</Position>
 </div>
 <div class="flex flex-wrap gap-1 py-4">
-<!-- 	{#each actions as [item, name, duration, distance], i}
+	{#each actions as [item, name, duration, distance], i}
 		<button on:click={() => handleAction(item, duration, distance)} class="btn"
 			>{name}</button>
 		{#if i == 5}<span class="flex-1" />{/if}
-	{/each} -->
+	{/each}
 </div>
 
 <style>
@@ -105,7 +105,7 @@
 		display: flex;
 		border-width: 2px;
 		border-style: solid;
-		border-color: var(--sky-500, transparent);
+		border-color: transparent;
 		border-radius: 0.25rem;
 	}
 	.battle-bar.animated {
@@ -119,9 +119,9 @@
 		top: 0;
 		bottom: 0;
 		left: 0;
-		/* background-image: url('/img/arena/blanka.png');
+		background-image: url('/img/arena/blanka.png');
 		background-repeat: no-repeat;
-		background-size: cover; */
+		background-size: cover;
 		background-position: bottom;
 		opacity: var(--opc);
 		transition: all 0.5s ease-in-out;

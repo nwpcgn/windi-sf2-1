@@ -3,12 +3,14 @@
     background-size: 1224px 1092px
 }
 
+.blanka_bl_cro_punch_l_4,
 .bl_left1.blanka_bl_cro_punch_l_0 {
     width: 122px;
     height: 58px;
     background-position: -5px -5px
 }
 
+.bl_left1.blanka_bl_cro_punch_l_3,
 .bl_left1.blanka_bl_cro_punch_l_1 {
     width: 168px;
     height: 51px;
@@ -21,18 +23,20 @@
     background-position: -315px -5px
 }
 
+.bl_left1.blanka_bl_cro_punch_m_6,
 .bl_left1.blanka_bl_cro_punch_m_0 {
     width: 87px;
     height: 65px;
     background-position: -483px -5px
 }
-
+.bl_left1.blanka_bl_cro_punch_m_5,
 .bl_left1.blanka_bl_cro_punch_m_1 {
     width: 159px;
     height: 63px;
     background-position: -580px -5px
 }
 
+.bl_left1.blanka_bl_cro_punch_m_4,
 .bl_left1.blanka_bl_cro_punch_m_2 {
     width: 167px;
     height: 71px;
@@ -44,6 +48,12 @@
     height: 72px;
     background-position: -5px -86px
 }
+
+
+
+
+
+
 
 .bl_left1.blanka_bl_down_0 {
     width: 96px;
@@ -117,12 +127,14 @@
     background-position: -537px -254px
 }
 
+.bl_left1.blanka_bl_kick_l_4,
 .bl_left1.blanka_bl_kick_l_0 {
     width: 87px;
     height: 97px;
     background-position: -646px -254px
 }
 
+.bl_left1.blanka_bl_kick_l_3,
 .bl_left1.blanka_bl_kick_l_1 {
     width: 105px;
     height: 95px;
