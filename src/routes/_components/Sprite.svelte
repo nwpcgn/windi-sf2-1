@@ -54,7 +54,9 @@
 		if (timeout1) clearTimeout(timeout1)
 
 		timeout1 = setTimeout(() => {
+			current = 0
 			infinity = false
+			animated = false
 			clearInterval(interval1)
 		}, 10000)
 	}

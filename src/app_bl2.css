@@ -1,0 +1,647 @@
+.chunli1 {
+    background-image: url(/sprites/chunli/chunli_set1_right.png);
+    background-size: 1170px 1150px
+}
+
+
+.chunli_cl_base_stand_a_0 {
+    width: 72px;
+    height: 85px;
+    background-position: -5px -5px;
+}
+
+.chunli_cl_base_stand_a_1 {
+    width: 72px;
+    height: 86px;
+    background-position: -87px -5px;
+}
+
+.chunli_cl_base_stand_a_2 {
+    width: 72px;
+    height: 87px;
+    background-position: -169px -5px;
+}
+
+.chunli_cl_base_stand_a_3 {
+    width: 72px;
+    height: 86px;
+    background-position: -251px -5px;
+}
+
+.chunli_cl_base_stand_b_0 {
+    width: 73px;
+    height: 91px;
+    background-position: -333px -5px;
+}
+
+.chunli_cl_base_stand_b_1 {
+    width: 68px;
+    height: 97px;
+    background-position: -416px -5px;
+}
+
+.chunli_cl_base_stand_b_2 {
+    width: 73px;
+    height: 91px;
+    background-position: -494px -5px;
+}
+
+.chunli_cl_base_wal_a_00 {
+    width: 78px;
+    height: 84px;
+    background-position: -577px -5px;
+}
+
+.chunli_cl_base_wal_a_01 {
+    width: 71px;
+    height: 87px;
+    background-position: -665px -5px;
+}
+
+.chunli_cl_base_wal_a_02 {
+    width: 63px;
+    height: 88px;
+    background-position: -746px -5px;
+}
+
+.chunli_cl_base_wal_a_03 {
+    width: 62px;
+    height: 89px;
+    background-position: -819px -5px;
+}
+
+.chunli_cl_base_wal_a_04 {
+    width: 67px;
+    height: 88px;
+    background-position: -891px -5px;
+}
+
+.chunli_cl_base_wal_a_05 {
+    width: 76px;
+    height: 87px;
+    background-position: -5px -103px;
+}
+
+.chunli_cl_base_wal_a_06 {
+    width: 81px;
+    height: 86px;
+    background-position: -91px -103px;
+}
+
+.chunli_cl_base_wal_a_07 {
+    width: 76px;
+    height: 87px;
+    background-position: -182px -103px;
+}
+
+.chunli_cl_base_wal_a_08 {
+    width: 67px;
+    height: 88px;
+    background-position: -577px -103px;
+}
+
+.chunli_cl_base_wal_a_09 {
+    width: 62px;
+    height: 89px;
+    background-position: -654px -103px;
+}
+
+.chunli_cl_base_wal_a_10 {
+    width: 71px;
+    height: 87px;
+    background-position: -726px -103px;
+}
+
+.chunli_cl_base_wal_a_11 {
+    width: 63px;
+    height: 88px;
+    background-position: -891px -103px;
+}
+
+.chunli_cl_base_wal_b_00 {
+    width: 73px;
+    height: 86px;
+    background-position: -5px -201px;
+}
+
+.chunli_cl_base_wal_b_01 {
+    width: 63px;
+    height: 89px;
+    background-position: -88px -201px;
+}
+
+.chunli_cl_base_wal_b_02 {
+    width: 60px;
+    height: 90px;
+    background-position: -161px -201px;
+}
+
+.chunli_cl_base_wal_b_03 {
+    width: 63px;
+    height: 91px;
+    background-position: -231px -201px;
+}
+
+.chunli_cl_base_wal_b_04 {
+    width: 64px;
+    height: 90px;
+    background-position: -304px -201px;
+}
+
+.chunli_cl_base_wal_b_05 {
+    width: 65px;
+    height: 89px;
+    background-position: -378px -201px;
+}
+
+.chunli_cl_base_wal_b_06 {
+    width: 72px;
+    height: 88px;
+    background-position: -453px -201px;
+}
+
+.chunli_cl_base_wal_b_07 {
+    width: 65px;
+    height: 89px;
+    background-position: -535px -201px;
+}
+
+.chunli_cl_base_wal_b_08 {
+    width: 64px;
+    height: 90px;
+    background-position: -726px -201px;
+}
+
+.chunli_cl_base_wal_b_09 {
+    width: 63px;
+    height: 91px;
+    background-position: -800px -201px;
+}
+
+.chunli_cl_base_wal_b_10 {
+    width: 60px;
+    height: 90px;
+    background-position: -873px -201px;
+}
+
+.chunli_cl_base_wal_b_11 {
+    width: 63px;
+    height: 89px;
+    background-position: -5px -301px;
+}
+
+.chunli_cl_kick_a_0 {
+    width: 96px;
+    height: 98px;
+    background-position: -78px -301px;
+}
+
+.chunli_cl_kick_a_1 {
+    width: 86px;
+    height: 96px;
+    background-position: -304px -301px;
+}
+
+.chunli_cl_kick_a_2 {
+    width: 62px;
+    height: 96px;
+    background-position: -400px -301px;
+}
+
+.chunli_cl_kick_a_3 {
+    width: 86px;
+    height: 96px;
+    background-position: -472px -301px;
+}
+
+.chunli_cl_kick_a_4 {
+    width: 96px;
+    height: 98px;
+    background-position: -568px -301px;
+}
+
+.chunli_cl_kick_b_0 {
+    width: 66px;
+    height: 89px;
+    background-position: -674px -301px;
+}
+
+.chunli_cl_kick_b_1 {
+    width: 71px;
+    height: 93px;
+    background-position: -873px -301px;
+}
+
+.chunli_cl_kick_b_2 {
+    width: 106px;
+    height: 97px;
+    background-position: -184px -302px;
+}
+
+.chunli_cl_kick_b_3 {
+    width: 71px;
+    height: 93px;
+    background-position: -674px -404px;
+}
+
+.chunli_cl_kick_b_4 {
+    width: 66px;
+    height: 89px;
+    background-position: -755px -404px;
+}
+
+.chunli_cl_kick_c_0 {
+    width: 66px;
+    height: 89px;
+    background-position: -831px -404px;
+}
+
+.chunli_cl_kick_c_1 {
+    width: 71px;
+    height: 93px;
+    background-position: -907px -404px;
+}
+
+.chunli_cl_kick_c_2 {
+    width: 109px;
+    height: 95px;
+    background-position: -5px -507px;
+}
+
+.chunli_cl_kick_c_3 {
+    width: 71px;
+    height: 93px;
+    background-position: -124px -507px;
+}
+
+.chunli_cl_kick_c_4 {
+    width: 66px;
+    height: 89px;
+    background-position: -205px -507px;
+}
+
+.chunli_cl_kick_d_0 {
+    width: 64px;
+    height: 78px;
+    background-position: -281px -507px;
+}
+
+.chunli_cl_kick_d_1 {
+    width: 70px;
+    height: 92px;
+    background-position: -355px -507px;
+}
+
+.chunli_cl_kick_d_2 {
+    width: 82px;
+    height: 90px;
+    background-position: -435px -507px;
+}
+
+.chunli_cl_kick_d_3 {
+    width: 123px;
+    height: 97px;
+    background-position: -527px -507px;
+}
+
+.chunli_cl_kick_d_4 {
+    width: 102px;
+    height: 83px;
+    background-position: -660px -507px;
+}
+
+.chunli_cl_kick_d_5 {
+    width: 70px;
+    height: 81px;
+    background-position: -772px -507px;
+}
+
+.chunli_cl_kick_e_0 {
+    width: 96px;
+    height: 98px;
+    background-position: -852px -507px;
+}
+
+.chunli_cl_kick_e_1 {
+    width: 86px;
+    height: 96px;
+    background-position: -5px -615px;
+}
+
+.chunli_cl_kick_e_2 {
+    width: 87px;
+    height: 97px;
+    background-position: -101px -615px;
+}
+
+.chunli_cl_kick_e_3 {
+    width: 64px;
+    height: 103px;
+    background-position: -198px -615px;
+}
+
+.chunli_cl_kick_e_4 {
+    width: 87px;
+    height: 97px;
+    background-position: -272px -615px;
+}
+
+.chunli_cl_kick_e_5 {
+    width: 86px;
+    height: 96px;
+    background-position: -369px -615px;
+}
+
+.chunli_cl_kick_e_6 {
+    width: 96px;
+    height: 98px;
+    background-position: -465px -615px;
+}
+
+.chunli_cl_punch_a_0 {
+    width: 78px;
+    height: 87px;
+    background-position: -571px -615px;
+}
+
+.chunli_cl_punch_a_1 {
+    width: 101px;
+    height: 89px;
+    background-position: -659px -615px;
+}
+
+.chunli_cl_punch_a_2 {
+    width: 87px;
+    height: 96px;
+    background-position: -770px -615px;
+}
+
+.chunli_cl_punch_a_3 {
+    width: 101px;
+    height: 89px;
+    background-position: -867px -615px;
+}
+
+.chunli_cl_punch_a_4 {
+    width: 78px;
+    height: 87px;
+    background-position: -571px -714px;
+}
+
+.chunli_cl_punch_b_0 {
+    width: 101px;
+    height: 84px;
+    background-position: -659px -714px;
+}
+
+.chunli_cl_punch_b_1 {
+    width: 119px;
+    height: 81px;
+    background-position: -770px -721px;
+}
+
+.chunli_cl_punch_b_2 {
+    width: 143px;
+    height: 81px;
+    background-position: -5px -812px;
+}
+
+.chunli_cl_punch_b_3 {
+    width: 119px;
+    height: 81px;
+    background-position: -158px -812px;
+}
+
+.chunli_cl_punch_b_4 {
+    width: 101px;
+    height: 84px;
+    background-position: -287px -812px;
+}
+
+.chunli_cl_punch_c_0 {
+    width: 101px;
+    height: 84px;
+    background-position: -398px -812px;
+}
+
+.chunli_cl_punch_c_1 {
+    width: 119px;
+    height: 79px;
+    background-position: -509px -812px;
+}
+
+.chunli_cl_punch_c_2 {
+    width: 130px;
+    height: 76px;
+    background-position: -638px -812px;
+}
+
+.chunli_cl_punch_c_3 {
+    width: 119px;
+    height: 79px;
+    background-position: -778px -812px;
+}
+
+.chunli_cl_punch_c_4 {
+    width: 101px;
+    height: 84px;
+    background-position: -968px -5px;
+}
+
+.chunli_cl_punch_d_0 {
+    width: 78px;
+    height: 87px;
+    background-position: -968px -99px;
+}
+
+.chunli_cl_punch_d_1 {
+    width: 83px;
+    height: 90px;
+    background-position: -964px -196px;
+}
+
+.chunli_cl_punch_d_2 {
+    width: 105px;
+    height: 89px;
+    background-position: -954px -296px;
+}
+
+.chunli_cl_punch_d_3 {
+    width: 83px;
+    height: 90px;
+    background-position: -988px -395px;
+}
+
+.chunli_cl_punch_d_4 {
+    width: 78px;
+    height: 87px;
+    background-position: -988px -495px;
+}
+
+.chunli_cl_spec_a_00 {
+    width: 66px;
+    height: 89px;
+    background-position: -978px -592px;
+}
+
+.chunli_cl_spec_a_01 {
+    width: 71px;
+    height: 93px;
+    background-position: -978px -691px;
+}
+
+.chunli_cl_spec_a_02 {
+    width: 107px;
+    height: 99px;
+    background-position: -907px -794px;
+}
+
+.chunli_cl_spec_a_03 {
+    width: 72px;
+    height: 95px;
+    background-position: -5px -903px;
+}
+
+.chunli_cl_spec_a_04 {
+    width: 119px;
+    height: 95px;
+    background-position: -87px -903px;
+}
+
+.chunli_cl_spec_a_05 {
+    width: 78px;
+    height: 95px;
+    background-position: -509px -903px;
+}
+
+.chunli_cl_spec_a_06 {
+    width: 121px;
+    height: 93px;
+    background-position: -597px -903px;
+}
+
+.chunli_cl_spec_a_07 {
+    width: 72px;
+    height: 95px;
+    background-position: -728px -903px;
+}
+
+.chunli_cl_spec_a_08 {
+    width: 102px;
+    height: 93px;
+    background-position: -810px -903px;
+}
+
+.chunli_cl_spec_a_09 {
+    width: 78px;
+    height: 95px;
+    background-position: -922px -903px;
+}
+
+.chunli_cl_spec_a_10 {
+    width: 71px;
+    height: 93px;
+    background-position: -1010px -903px;
+}
+
+.chunli_cl_spec_a_11 {
+    width: 66px;
+    height: 89px;
+    background-position: -1079px -5px;
+}
+
+.chunli_cl_win_a_00 {
+    width: 73px;
+    height: 91px;
+    background-position: -1057px -104px;
+}
+
+.chunli_cl_win_a_01 {
+    width: 68px;
+    height: 97px;
+    background-position: -1069px -205px;
+}
+
+.chunli_cl_win_a_02 {
+    width: 48px;
+    height: 102px;
+    background-position: -1081px -312px;
+}
+
+.chunli_cl_win_a_03 {
+    width: 74px;
+    height: 128px;
+    background-position: -1081px -424px;
+}
+
+.chunli_cl_win_a_04 {
+    width: 74px;
+    height: 112px;
+    background-position: -1076px -562px;
+}
+
+.chunli_cl_win_a_05 {
+    width: 74px;
+    height: 101px;
+    background-position: -1059px -684px;
+}
+
+.chunli_cl_win_a_06 {
+    width: 74px;
+    height: 112px;
+    background-position: -1091px -795px;
+}
+
+.chunli_cl_win_a_07 {
+    width: 74px;
+    height: 128px;
+    background-position: -216px -917px;
+}
+
+.chunli_cl_win_a_08 {
+    width: 48px;
+    height: 103px;
+    background-position: -300px -917px;
+}
+
+.chunli_cl_win_a_09 {
+    width: 48px;
+    height: 102px;
+    background-position: -358px -917px;
+}
+
+.chunli_cl_win_a_10 {
+    width: 48px;
+    height: 103px;
+    background-position: -416px -917px;
+}
+
+.chunli_cl_win_a_11 {
+    width: 48px;
+    height: 102px;
+    background-position: -1091px -917px;
+}
+
+.chunli_cl_win_a_12 {
+    width: 48px;
+    height: 103px;
+    background-position: -5px -1029px;
+}
+
+.chunli_cl_win_a_13 {
+    width: 48px;
+    height: 102px;
+    background-position: -63px -1029px;
+}
+
+.chunli_cl_win_a_14 {
+    width: 48px;
+    height: 103px;
+    background-position: -121px -1029px;
+}
+
+.chunli_cl_win_a_15 {
+    width: 58px;
+    height: 116px;
+    background-position: -474px -1029px;
+}

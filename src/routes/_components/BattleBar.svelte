@@ -1,89 +1,101 @@
 <script>
-	import actions from './actions'
+	import actions2 from './actions_chunli'
+	import actions1 from './actions_blanka'
 	import BattleItem from './BattleItem.svelte'
-	const player = {
+	let player1 = {
 		slug: 'bl_stand',
 		dur: 500,
 		pos: {
 			x: 200,
 			y: 0
 		},
-		actions: actions
+		actions: actions1,
+		version: 'left'
 	}
-	let sprite_obj = actions.find((el) => el.slug === player.slug)
+	let player2 = {
+		slug: 'cl_base_stand_a',
+		dur: 500,
+		pos: {
+			x: 200,
+			y: 0
+		},
+		actions: actions2,
+		version: 'right'
+	}
+	let sprite_obj1 = player1.actions.find((el) => el.slug === player1.slug)
+	let sprite_obj2 = player2.actions.find((el) => el.slug === player2.slug)
 	let frame_width = 0
-	let left = 0
-	let top = 0
-	let animated = false
-	let element, frame
-	const handleAction = (item) => {
-		sprite_obj = item
-		animated = true
+	let left1 = 0
+	let top1 = 0
+	let animated1 = false
+	let left2 = 0
+	let top2 = 0
+	let animated2 = false
+	let element1, element2, frame
+	const handleAction1 = (item1) => {
+		sprite_obj1 = item1
+		animated1 = true
 		// let { slug, name, pre, loops, duration, position, sprites } = item
 		// console.log("Handle Action", {slug, name, pre, loops, duration, position, sprites})
 	}
+	const handleAction2 = (item2) => {
+		sprite_obj2 = item2
+		animated2 = true
+	}
+
+	const handleResize = () => {
+		let b = Math.round(frame_width / 2)
+		let c = b - 100
+		player1.pos.x = c
+		player2.pos.x = c
+		console.log("RESIZE", {player1, player2})
+	}
+
+	$: handleResize(frame_width)
 </script>
 
 <article
 	bind:clientWidth={frame_width}
 	bind:this={frame}
-	class:animated
+	class:animated={animated1 || animated2}
 	class="battle-bar">
+
 	<BattleItem
-		{...player}
-		bind:animated
-		bind:sprite_obj
+		{...player1}
+		bind:animated={animated1}
+		bind:sprite_obj={sprite_obj1}
+		bind:left={left1}
+		bind:top={top1}
+		bind:element={element1}
 		bind:frame_width
-		bind:left
-		bind:top
-		bind:element
+		bind:frame />
+	<BattleItem
+		{...player2}
+		bind:animated={animated2}
+		bind:sprite_obj={sprite_obj2}
+		bind:left={left2}
+		bind:top={top2}
+		bind:element={element2}
+		bind:frame_width
 		bind:frame />
 </article>
 
-<footer class="flex gap-1 py-4">
-	<div class="flex flex-col gap-1 flex-1">
-		{#each player.actions as item, i}
-			{#if i < 3}
-				<button on:click={() => handleAction(item)} class="btn"
-					>{item.name}</button>
-			{/if}
+<footer class="flex gap-4 py-4">
+	<div class="flex flex-wrap gap-1">
+		{#each player1.actions as item1, i}
+			<button
+				on:click={() => handleAction1(item1)}
+				class="btn">{item1.name}</button>
 		{/each}
 	</div>
-	<div class="flex flex-col gap-1 flex-1">
-		{#each player.actions as item, i}
-			{#if i > 2 && i < 6}
-				<button on:click={() => handleAction(item)} class="btn"
-					>{item.name}</button>
-			{/if}
-		{/each}
-	</div>
-	<div class="flex flex-col gap-1 flex-1">
-		{#each player.actions as item, i}
-			{#if i > 5 && i < 9}
-				<button on:click={() => handleAction(item)} class="btn"
-					>{item.name}</button>
-			{/if}
-		{/each}
-	</div>
-	<div class="flex-1" />
-	<div class="flex flex-col gap-1 flex-1">
-		{#each player.actions as item, i}
-			{#if i > 8}
-				<button on:click={() => handleAction(item)} class="btn"
-					>{item.name}</button>
-			{/if}
+	<div class="flex flex-wrap gap-1">
+		{#each player2.actions as item2, i}
+			<button
+				on:click={() => handleAction2(item2)}
+				class="btn">{item2.name}</button>
 		{/each}
 	</div>
 </footer>
-<details class="mt-4">
-	<summary>Alternative</summary>
-	<footer class="flex flex-wrap gap-1 py-4">
-		{#each player.actions as item, i}
-			<button on:click={() => handleAction(item)} class="btn" disabled={animated}
-				>{item.name}</button>
-		{/each}
-	</footer>
-</details>
 
 <style>
 	.battle-bar {

@@ -6,6 +6,7 @@
 	export let element, frame
 	export let frame_width = 0
 	export let left = 0
+	export let version = 'left'
 	export let pos = {x: 200,y: 0}
 	export let sprite_obj = {}
 	export let top = 0
@@ -18,6 +19,7 @@
 		animated = false
 		slide_duration = slide_duration / 2
 		left = pos.x
+		console.log("end animation", {pos, animated})
 	}
 	const resetPosDura = () => (slide_duration = dur)
 	const checkIfOutside = () => {
@@ -47,10 +49,13 @@
 	}
 
 	$: checkIfOutside(frame_width, left)
+
+	
 </script>
 
 <Slide
 	{pos}
+	{version}
 	bind:duration={slide_duration}
 	bind:x={left}
 	on:ended={resetPosDura}>
